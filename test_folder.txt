@@ -1,0 +1,2022 @@
+Folders that exist in source but not in destination:161
+Config\02_NCR_Internal
+Config\03_Data
+Config\04_PostData
+Config\07_LP
+NtucLoyaltyAdapter\Libs
+NtucMultiSimulator\Batches
+NtucMultiSimulator\Build
+NtucMultiSimulator\Libs
+NtucProvidersAdapter\Installation
+NtucProvidersAdapter\Libs
+SSCO Config\Jarvis
+SSCO Config\Merge
+Config\01_Basic\015.Alerts
+Config\02_NCR_Internal\001.StoreHierarchy
+Config\02_NCR_Internal\002.Update RoleRole
+Config\02_NCR_Internal\1041_StoreSpecSysParams
+Config\02_NCR_Internal\1042_Simulators-Device
+Config\02_NCR_Internal\1120_TouchPoints
+Config\02_NCR_Internal\1200_ItemHierarchy
+Config\02_NCR_Internal\1300_Department
+Config\02_NCR_Internal\1320_Users
+Config\02_NCR_Internal\1321_Drawer Accountability
+Config\03_Data\01.NCR
+Config\03_Data\1000_Department
+Config\03_Data\1020_Products
+Config\03_Data\1025_Prices
+Config\04_PostData\0610_OnlineGroups
+Config\04_PostData\2000_ConsumableGroups
+Config\04_PostData\2683_BusinessRule
+Config\06_Test_Data\0.1.Security_scale_maintenance
+Config\06_Test_Data\007.AccountProfileMaintenance
+Config\06_Test_Data\011.SCOIntervention
+Config\06_Test_Data\012.Govtech Products
+Config\06_Test_Data\017.BRM
+Config\06_Test_Data\05.LMSPromotionProducts
+Config\06_Test_Data\4.RestrictionMaintenance
+Config\07_LP\01_NCR
+Config\07_LP\02_Prod
+NtucProvidersAdapter\Installation\Config
+NtucProvidersAdapter\Installation\Project
+NtucProvidersAdapter\Installation\SupportFiles
+SSCO Config\Merge\01.Basic
+SSCO Config\Merge\02_Data
+SSCO Config\Merge\03.Customer_Env
+SSCO Config\Merge\04_PostData
+SSCO Config\Merge\06_Test_Data
+SSCO Config\Merge\07_LP
+Config\01_Basic\001.Initial\005.TaxIndicators
+Config\01_Basic\001.Initial\006.MovableRoutingMethod
+Config\01_Basic\035.MenuConfiguration\04.PLUMenu
+Config\02_NCR_Internal\1041_StoreSpecSysParams\02_BalancingType
+Config\07_LP\01_NCR\01_QA
+NtucProvidersAdapter\Installation\Project\Dynamic
+NtucProvidersAdapter\Installation\Project\Include
+NtucProvidersAdapter\Installation\Project\Localization
+NtucProvidersAdapter\Installation\Project\UI
+NtucProvidersAdapter\Installation\SupportFiles\Bitmaps
+NtucProvidersAdapter\Src\Ncr.NtucAdapter.BC\DTO
+NtucProvidersAdapter\Src\Ncr.NtucAdapter.BC.Test\Actions
+NtucProvidersAdapter\Src\Ncr.NtucAdapter.Common\Imp
+NtucProvidersAdapter\Src\Ncr.NtucAdapter.Model\Communication
+NtucProvidersAdapter\Src\Ncr.NtucAdapter.Model\Infrastructure
+NtucProvidersAdapter\Src\Ncr.NtucAdapter.VoucherRedemptionGateway\PosMessageBuilders
+SSCO Config\Common\01.Basic\015.Alerts
+SSCO Config\Common\03.Customer_Env\002.Update RoleRole
+SSCO Config\Common\03.Customer_Env\1321_Drawer Accountability
+SSCO Config\Merge\01.Basic\001.Initial
+SSCO Config\Merge\01.Basic\002.Roles
+SSCO Config\Merge\01.Basic\002.TouchPoints
+SSCO Config\Merge\01.Basic\003.Messages
+SSCO Config\Merge\01.Basic\005.AlertGroupMaintenance
+SSCO Config\Merge\01.Basic\005.Roles_Permissions
+SSCO Config\Merge\01.Basic\006.LocationConsumableGroups
+SSCO Config\Merge\01.Basic\007.AccountProfileMaintenance
+SSCO Config\Merge\01.Basic\008.DataPattern
+SSCO Config\Merge\01.Basic\010.AlertSeverityMaintenance
+SSCO Config\Merge\01.Basic\010.Tenders
+SSCO Config\Merge\01.Basic\015.Alerts
+SSCO Config\Merge\01.Basic\015.ReasonCodes
+SSCO Config\Merge\01.Basic\026.Devices
+SSCO Config\Merge\01.Basic\028.EndOfDay
+SSCO Config\Merge\01.Basic\030.SystemParameters
+SSCO Config\Merge\01.Basic\031.ConfigurationParameters
+SSCO Config\Merge\01.Basic\035.MenuConfiguration
+SSCO Config\Merge\01.Basic\036.LocalizedResource
+SSCO Config\Merge\01.Basic\037.Denominations
+SSCO Config\Merge\01.Basic\039_ServerGroup
+SSCO Config\Merge\01.Basic\040.RetentionPolicy
+SSCO Config\Merge\01.Basic\055.BusinessComponents
+SSCO Config\Merge\01.Basic\20.ReturnPolicy
+SSCO Config\Merge\01.Basic\220.Receipt
+SSCO Config\Merge\01.Basic\221.ReceiptConfiguration
+SSCO Config\Merge\01.Basic\327.FormsConfiguration
+SSCO Config\Merge\01.Basic\350.OlaMessages
+SSCO Config\Merge\02_Data\01.NCR
+SSCO Config\Merge\03.Customer_Env\001.StoreHierarchy
+SSCO Config\Merge\03.Customer_Env\002.Update RoleRole
+SSCO Config\Merge\03.Customer_Env\1041_StoreSpecSysParams
+SSCO Config\Merge\03.Customer_Env\1042_Simulators-Device
+SSCO Config\Merge\03.Customer_Env\1120_TouchPoints
+SSCO Config\Merge\03.Customer_Env\1200_ItemHierarchy
+SSCO Config\Merge\03.Customer_Env\1300_Department
+SSCO Config\Merge\03.Customer_Env\1320_Users
+SSCO Config\Merge\03.Customer_Env\1321_Drawer Accountability
+SSCO Config\Merge\04_PostData\0610_OnlineGroups
+SSCO Config\Merge\04_PostData\2683_BusinessRule
+SSCO Config\Merge\04_PostData\6000_ConsumableGroups
+SSCO Config\Merge\06_Test_Data\0.1.Security_scale_maintenance
+SSCO Config\Merge\06_Test_Data\007.AccountProfileMaintenance
+SSCO Config\Merge\06_Test_Data\011.SCOIntervention
+SSCO Config\Merge\06_Test_Data\012.Govtech Products
+SSCO Config\Merge\06_Test_Data\017.BRM
+SSCO Config\Merge\06_Test_Data\05.LMSPromotionProducts
+SSCO Config\Merge\06_Test_Data\1.items
+SSCO Config\Merge\06_Test_Data\2.Promotion
+SSCO Config\Merge\06_Test_Data\4.RestrictionMaintenance
+SSCO Config\Merge\07_LP\01_NCR
+Config\01_Basic\001.Initial\004.Tax\2_TaxHierarchy
+Config\01_Basic\350.OlaMessages\001.MessageAdd\LinkServer_MessageAdd
+Config\01_Basic\350.OlaMessages\002.OLAMessageMaintenance\LinkServer_OLAMessageMaintenance
+NtucProvidersAdapter\Src\Ncr.NtucAdapter.Common\Imp\DataTypes
+SSCO Config\Common\01.Basic\001.Initial\005.TaxIndicators
+SSCO Config\Common\01.Basic\001.Initial\006.MovableRoutingMethod
+SSCO Config\Merge\01.Basic\001.Initial\001.StoreHierarchy
+SSCO Config\Merge\01.Basic\001.Initial\002.CultureSetting
+SSCO Config\Merge\01.Basic\001.Initial\003.ItemHierarchy
+SSCO Config\Merge\01.Basic\001.Initial\004.Tax
+SSCO Config\Merge\01.Basic\001.Initial\005.TaxIndicators
+SSCO Config\Merge\01.Basic\001.Initial\006.MovableRoutingMethod
+SSCO Config\Merge\01.Basic\002.TouchPoints\001.TouchPointGroups
+SSCO Config\Merge\01.Basic\002.TouchPoints\002.TouchPointApplication
+SSCO Config\Merge\01.Basic\002.TouchPoints\003.TouchPointCommandsMaintenance
+SSCO Config\Merge\01.Basic\003.Messages\Tenders
+SSCO Config\Merge\01.Basic\026.Devices\001.Device_Types
+SSCO Config\Merge\01.Basic\026.Devices\002.Devices
+SSCO Config\Merge\01.Basic\035.MenuConfiguration\01.CommandMenu
+SSCO Config\Merge\01.Basic\035.MenuConfiguration\02.OfficeMenu
+SSCO Config\Merge\01.Basic\035.MenuConfiguration\03.TenderMenu
+SSCO Config\Merge\01.Basic\035.MenuConfiguration\04.PLUMenu
+SSCO Config\Merge\01.Basic\036.LocalizedResource\01_XlrPos
+SSCO Config\Merge\01.Basic\036.LocalizedResource\02_POS
+SSCO Config\Merge\01.Basic\220.Receipt\001_Receipt Slip Type
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template
+SSCO Config\Merge\01.Basic\220.Receipt\004_Receipt Layout
+SSCO Config\Merge\01.Basic\220.Receipt\006.BusinessUnitImage
+SSCO Config\Merge\01.Basic\350.OlaMessages\001.MessageAdd
+SSCO Config\Merge\01.Basic\350.OlaMessages\002.OLAMessageMaintenance
+SSCO Config\Merge\02_Data\01.NCR\1000_Department
+SSCO Config\Merge\02_Data\01.NCR\1020_Products
+SSCO Config\Merge\02_Data\01.NCR\1025_Prices
+SSCO Config\Merge\03.Customer_Env\1041_StoreSpecSysParams\02_BalancingType
+SSCO Config\Merge\06_Test_Data\1.items\Price
+SSCO Config\Merge\06_Test_Data\1.items\Product
+SSCO Config\Merge\07_LP\01_NCR\01_QA
+NtucProvidersAdapter\Src\Ncr.NtucAdapter.Common\Imp\DataTypes\PromptForData
+SSCO Config\Common\01.Basic\001.Initial\004.Tax\2_TaxHierarchy
+SSCO Config\Merge\01.Basic\001.Initial\004.Tax\0_TaxIndicatorGroup
+SSCO Config\Merge\01.Basic\001.Initial\004.Tax\1_TaxAuthority
+SSCO Config\Merge\01.Basic\001.Initial\004.Tax\2_TaxHierarchy
+SSCO Config\Merge\01.Basic\001.Initial\004.Tax\3_TaxRate
+
+Files that exist in source but not in destination:1807
+Config\02_NCR_Internal\001.DebugMode.ReceiptConfigurationParametersMaintenance
+Config\02_NCR_Internal\001.TransactionLog.ConfigurationMaintenance
+SSCO Config\Merge\JfrogRTI.ps1
+SSCO Config\Merge\nuget.config
+SSCO Config\Merge\RTI.nuspec
+Config\01_Basic\002.Roles\005_Store_Manager.IdmUpdateRole
+Config\01_Basic\002.Roles\015_SCO.IdmUpdateRole
+Config\01_Basic\003.Messages\023_AgeApproval18.messageadd
+Config\01_Basic\003.Messages\024_AgeChallange.messageadd
+Config\01_Basic\003.Messages\025_AgeApproval21.messageadd
+Config\01_Basic\003.Messages\026_Training_Mode_Access.MessageAdd
+Config\01_Basic\003.Messages\027_TimeRestricted_Alcohol_Msg.messageadd
+Config\01_Basic\003.Messages\028_iTunesSaleRestrictiononSCO.MessageAdd
+Config\01_Basic\003.Messages\21.GC_Restriction.MessageAdd
+Config\01_Basic\003.Messages\22.GC Quantity Restriction.MessageAdd
+Config\01_Basic\005.Roles_Permissions\001_Administrator.UserConfigurationPermissionsMaintenance
+Config\01_Basic\005.Roles_Permissions\003_Chief Cashier.UserConfigurationPermissionsMaintenance
+Config\01_Basic\005.Roles_Permissions\004_Team Leader.UserConfigurationPermissionsMaintenance
+Config\01_Basic\005.Roles_Permissions\005_Store Manager.UserConfigurationPermissionsMaintenance
+Config\01_Basic\005.Roles_Permissions\006_Store Admin_FO_Only.UserConfigurationPermissionsMaintenance
+Config\01_Basic\005.Roles_Permissions\007_Corporate IT_FO_Only.UserConfigurationPermissionsMaintenance
+Config\01_Basic\005.Roles_Permissions\016_Executive User.UserConfigurationPermissionsMaintenance
+Config\01_Basic\006.LocationConsumableGroups\01_AgeRestrictionAlcohol.LocationConsumableGroupMaintenance
+Config\01_Basic\006.LocationConsumableGroups\02_AgeRestrictionTobacco.LocationConsumableGroupMaintenance
+Config\01_Basic\006.LocationConsumableGroups\03_SaleRestriction.LocationConsumableGroupMaintenance
+Config\01_Basic\006.LocationConsumableGroups\04_RecalledItems.LocationConsumableGroupMaintenance
+Config\01_Basic\007.AccountProfileMaintenance\001_Cashier.AccountProfileMaintenance
+Config\01_Basic\007.AccountProfileMaintenance\002_Till.AccountProfileMaintenance
+Config\01_Basic\007.AccountProfileMaintenance\003_Bank.AccountProfileMaintenance
+Config\01_Basic\007.AccountProfileMaintenance\004_AutoReconcile.AccountProfileMaintenance
+Config\01_Basic\007.AccountProfileMaintenance\005_CashOfficeSafe.AccountProfileMaintenance
+Config\01_Basic\007.AccountProfileMaintenance\006_IncomeAndExpense.AccountProfileMaintenance
+Config\01_Basic\007.AccountProfileMaintenance\010_SCO_Default_Cashier.AccountProfileMaintenance
+Config\01_Basic\008.DataPattern\000_IsDigit.DataPatternMetadataMaintenance
+Config\01_Basic\008.DataPattern\011_ECoupon.DataPatternAdd
+Config\01_Basic\008.DataPattern\012_AmountEmbedded.DataPatternAdd
+Config\01_Basic\008.DataPattern\013_Cashier_barcode.DataPatternAdd
+Config\01_Basic\008.DataPattern\014_Each22Series.DataPatternAdd
+Config\01_Basic\008.DataPattern\015_Ecoupon.DataPatternAdd
+Config\01_Basic\008.DataPattern\016_Kgs22Series.DataPatternAdd
+Config\01_Basic\008.DataPattern\017_SupplierBarcode.DataPatternAdd
+Config\01_Basic\010.Tenders\003.4DCash.TenderMaintenance
+Config\01_Basic\010.Tenders\008.IPP.TenderMaintenance
+Config\01_Basic\010.Tenders\009.JCB.TenderMaintenance
+Config\01_Basic\010.Tenders\013.Reserved.TenderMaintenance
+Config\01_Basic\010.Tenders\015.SUPPLIER COUPON.TenderMaintenance
+Config\01_Basic\010.Tenders\017.BARCODED SUP COUPON.TenderMaintenance
+Config\01_Basic\010.Tenders\018.U-STRETCH COUPON.TenderMaintenance
+Config\01_Basic\010.Tenders\019.HOUSEBRAND DISCOUNT.TenderMaintenance
+Config\01_Basic\010.Tenders\020.FP PROMOTION VOUCHER.TenderMaintenance
+Config\01_Basic\010.Tenders\021.CAR PARK REDEMPTION.TenderMaintenance
+Config\01_Basic\010.Tenders\022.BYOB DISCOUNT.TenderMaintenance
+Config\01_Basic\010.Tenders\023.LinkPoints Redemption.TenderMaintenance
+Config\01_Basic\010.Tenders\025.CREDIT SALES.TenderMaintenance
+Config\01_Basic\010.Tenders\030.NTUC EXCHANGE RATE.TenderMaintenance
+Config\01_Basic\010.Tenders\036.GIFT CARD.TenderMaintenance
+Config\01_Basic\010.Tenders\039_Ecoupon.TenderMaintenance
+Config\01_Basic\010.Tenders\040.STAFF CO-PAYMENT.TenderMaintenance
+Config\01_Basic\010.Tenders\041.FFS.TenderMaintenance
+Config\01_Basic\010.Tenders\044.SUBSIDY.TenderMaintenance
+Config\01_Basic\010.Tenders\045.CASH OFFLINE.TenderMaintenance
+Config\01_Basic\010.Tenders\046.GRABMART.TenderMaintenance
+Config\01_Basic\010.Tenders\048.GC OFFLINE.TenderMaintenance
+Config\01_Basic\010.Tenders\053.FOOD PANDA.TenderMaintenance
+Config\01_Basic\010.Tenders\054.ONLINE DELI.TenderMaintenance
+Config\01_Basic\010.Tenders\055.FAIRPRICE APP.TenderMaintenance
+Config\01_Basic\010.Tenders\057.Ubsc.TenderMaintenance
+Config\01_Basic\010.Tenders\060.PARTNER VOUCHER.TenderMaintenance
+Config\01_Basic\010.Tenders\067.PV NEA EVOUCHER.TenderMaintenance
+Config\01_Basic\010.Tenders\069.PV NEA3 EVOUHCER.TenderMaintenance
+Config\01_Basic\010.Tenders\126.PointRounding.TenderRoundingRuleMaintenance
+Config\01_Basic\030.SystemParameters\LoyaltyType.SystemParametersAdd
+Config\01_Basic\030.SystemParameters\ProductEligibilityEnabled.SystemParametersAdd
+Config\01_Basic\031.ConfigurationParameters\CustomerAccountMaintenance.CustomerAccountMaintenance
+Config\01_Basic\031.ConfigurationParameters\CustomerAgreementMaintenance.CustomerAgreementMaintenance
+Config\01_Basic\031.ConfigurationParameters\MultiCustomerSave.MultiCustomerBehaviorMaintenance
+Config\01_Basic\031.ConfigurationParameters\PosParametersConfigurationMaintenance.PosParametersConfigurationMaintenance
+Config\01_Basic\031.ConfigurationParameters\ProductEligibilityAPIConfiguration.ProductEligibilityAPIConfigurationMaintenance
+Config\01_Basic\031.ConfigurationParameters\RationingGateWayConfiguration.BusinessConfigurationMaintenance
+Config\01_Basic\031.ConfigurationParameters\RationingGateWayNRICConfiguration.BusinessConfigurationMaintenance
+Config\01_Basic\031.ConfigurationParameters\RationingGateWayWeightConfiguration.BusinessConfigurationMaintenance
+Config\01_Basic\221.ReceiptConfiguration\003.ReceiptConfigurationParametersMaintenance_SCO.ReceiptConfigurationParametersMaintenance
+Config\02_NCR_Internal\001.StoreHierarchy\313_StoreWithFiscalID.BusinessUnitMaintenance
+Config\02_NCR_Internal\001.StoreHierarchy\348_StoreWithFiscalID.BusinessUnitMaintenance
+Config\02_NCR_Internal\001.StoreHierarchy\420_StoreWithFiscalID.BusinessUnitMaintenance
+Config\02_NCR_Internal\001.StoreHierarchy\447_StoreWithFiscalID.BusinessUnitMaintenance
+Config\02_NCR_Internal\002.Update RoleRole\005_Store_manager.IdmUpdateRole
+Config\02_NCR_Internal\1042_Simulators-Device\0003_Printer_Simulator.DeviceConfigurationAdd
+Config\02_NCR_Internal\1042_Simulators-Device\0004_Drawer.DeviceConfigurationAdd
+Config\02_NCR_Internal\1042_Simulators-Device\0010_Add Cash Drawer Emulators.DeviceConfigurationAdd
+Config\02_NCR_Internal\1042_Simulators-Device\0010_Add Scanner Emulators.DeviceConfigurationAdd
+Config\02_NCR_Internal\1120_TouchPoints\004_TP025447.TouchPointAdd
+Config\02_NCR_Internal\1120_TouchPoints\005_TP100447.TouchPointAdd
+Config\02_NCR_Internal\1120_TouchPoints\006_TP101447.TouchPointAdd
+Config\02_NCR_Internal\1120_TouchPoints\006_TP27447.TouchPointAdd
+Config\02_NCR_Internal\1200_ItemHierarchy\11_ESSENTIALS.ItemHierarchyMaintenance
+Config\02_NCR_Internal\1200_ItemHierarchy\12_GROCERIES.ItemHierarchyMaintenance
+Config\02_NCR_Internal\1200_ItemHierarchy\13_BEVERAGE.ItemHierarchyMaintenance
+Config\02_NCR_Internal\1200_ItemHierarchy\14_TIDBITS.ItemHierarchyMaintenance
+Config\02_NCR_Internal\1200_ItemHierarchy\21_FROZEN.ItemHierarchyMaintenance
+Config\02_NCR_Internal\1200_ItemHierarchy\22_FISH.ItemHierarchyMaintenance
+Config\02_NCR_Internal\1200_ItemHierarchy\31_TOILTRIES.ItemHierarchyMaintenance
+Config\02_NCR_Internal\1200_ItemHierarchy\32_HOUSEHOLD.ItemHierarchyMaintenance
+Config\02_NCR_Internal\1200_ItemHierarchy\33_HEALTH.ItemHierarchyMaintenance
+Config\02_NCR_Internal\1200_ItemHierarchy\41_BAZAAR.ItemHierarchyMaintenance
+Config\02_NCR_Internal\1200_ItemHierarchy\42_ELECTRONIC.ItemHierarchyMaintenance
+Config\02_NCR_Internal\1200_ItemHierarchy\43_TEXTILE.ItemHierarchyMaintenance
+Config\02_NCR_Internal\1200_ItemHierarchy\51_FOOD.ItemHierarchyMaintenance
+Config\02_NCR_Internal\1200_ItemHierarchy\71_NONMERCHANDISE.ItemHierarchyMaintenance
+Config\02_NCR_Internal\1200_ItemHierarchy\90_CONCESSIONAIRES.ItemHierarchyMaintenance
+Config\02_NCR_Internal\1300_Department\001_Departments.DepartmentSaveOrUpdate
+Config\02_NCR_Internal\1320_Users\001_Administrator.IdmAddUser
+Config\02_NCR_Internal\1320_Users\002_Cashier.IdmAddUser
+Config\02_NCR_Internal\1320_Users\003_Chief_Cashier.IdmAddUser
+Config\02_NCR_Internal\1320_Users\004_Team_Leader.IdmAddUser
+Config\02_NCR_Internal\1320_Users\005_Store_Manager.IdmAddUser
+Config\02_NCR_Internal\1320_Users\006_Store_Manager_FO_Only.IdmAddUser
+Config\02_NCR_Internal\1320_Users\007_Corporate_IT_FO_Only.IdmAddUser
+Config\02_NCR_Internal\1320_Users\008_Installation User.IdmAddUser
+Config\02_NCR_Internal\1320_Users\009_Service_Counter.IdmAddUser
+Config\02_NCR_Internal\1320_Users\010_Appliance_Counter.IdmAddUser
+Config\02_NCR_Internal\1320_Users\014_BGS-FO_Only.IdmAddUser
+Config\02_NCR_Internal\1320_Users\015_SCO.IdmAddUser
+Config\02_NCR_Internal\1320_Users\016_Executive_User.IdmAddUser
+Config\02_NCR_Internal\1320_Users\017_Audit_Finance_FO_Only.IdmAddUser
+Config\02_NCR_Internal\1320_Users\066_100.IdmAddUser
+Config\02_NCR_Internal\1320_Users\077_LoyaltyServiceRole.IdmAddUser
+Config\02_NCR_Internal\1321_Drawer Accountability\154.FundTransferOfficeHeader_CashOffice.LayoutTemplateMaintenance
+Config\02_NCR_Internal\1321_Drawer Accountability\159.DeclarationOfficeHeader_CashOffice.LayoutTemplateMaintenance
+Config\02_NCR_Internal\1321_Drawer Accountability\160.DataProtectionConfigurationMaintenance.DataProtectionConfigurationMaintenance
+Config\02_NCR_Internal\1321_Drawer Accountability\161.DrawerAccountability.SystemParametersAdd
+Config\02_NCR_Internal\1321_Drawer Accountability\162.OfficeBusinessConfigurationMaintenance.OfficeBusinessConfigurationMaintenance
+Config\03_Data\1000_Department\001_Departments.DepartmentSaveOrUpdate
+Config\03_Data\1020_Products\001_CDA_Items_Products.ProductMaintenance
+Config\03_Data\1020_Products\10624175.ProductMaintenance
+Config\03_Data\1020_Products\5703.ProductMaintenance
+Config\03_Data\1020_Products\FP Gift Card.ProductMaintenance
+Config\03_Data\1020_Products\HCS.ProductMaintenance
+Config\03_Data\1020_Products\_iTunes GC.ProductMaintenance
+Config\03_Data\1025_Prices\001_CDA_Items.PriceMaintenance
+Config\03_Data\1025_Prices\10624175.PriceMaintenance
+Config\03_Data\1025_Prices\FP Gift Card.PriceMaintenance
+Config\03_Data\1025_Prices\HCS.PriceMaintenance
+Config\03_Data\1025_Prices\_iTunes GC.PriceMaintenance
+Config\04_PostData\0610_OnlineGroups\002_iTunes GC .LocationConsumableGroupMaintenance
+Config\04_PostData\0610_OnlineGroups\008_ETG.LocationConsumableGroupMaintenance
+Config\04_PostData\0610_OnlineGroups\009_ETT.LocationConsumableGroupMaintenance
+Config\04_PostData\2000_ConsumableGroups\01.FP_Gift_Card_ConsumbleGropups.LocationConsumableGroupMaintenance
+Config\04_PostData\2683_BusinessRule\001_SupervisorApproval_VoidTransaction.BusinessRuleMaintenance
+Config\04_PostData\2683_BusinessRule\002_Void_Items.businessrulemaintenance
+Config\04_PostData\2683_BusinessRule\003_XreportApproval.BusinessRuleMaintenance
+Config\04_PostData\2683_BusinessRule\004_M150.BusinessRuleMaintenance
+Config\04_PostData\2683_BusinessRule\005_Thai_Beverage_Notice.BusinessRuleMaintenance
+Config\04_PostData\2683_BusinessRule\006_Club_Pack_Coke.BusinessRuleMaintenance
+Config\04_PostData\2683_BusinessRule\007_Product_Withdraw.BusinessRuleMaintenance
+Config\04_PostData\2683_BusinessRule\008_BP_warning_due_date.BusinessRuleMaintenance
+Config\04_PostData\2683_BusinessRule\009_BP_Limit_490000.BusinessRuleMaintenance
+Config\04_PostData\2683_BusinessRule\010_BP_Fix_Amount.BusinessRuleMaintenance
+Config\04_PostData\2683_BusinessRule\011_Non_license_tobacco.BusinessRuleMaintenance
+Config\04_PostData\2683_BusinessRule\012_Block_Items_Clubpack.BusinessRuleMaintenance
+Config\04_PostData\2683_BusinessRule\013_AirPay_Wallet.BusinessRuleMaintenance
+Config\04_PostData\2683_BusinessRule\014_Block_items_CP.BusinessRuleMaintenance
+Config\04_PostData\2683_BusinessRule\015_BP_EPW.BusinessRuleMaintenance
+Config\04_PostData\2683_BusinessRule\016_SSO.BusinessRuleMaintenance
+Config\04_PostData\2683_BusinessRule\017_Batch.behavior.BusinessRuleMaintenance
+Config\04_PostData\2683_BusinessRule\018_Return_item_Supervisor_Approval.BusinessRuleMaintenance
+Config\04_PostData\2683_BusinessRule\019_GC Quantity Restriction.BusinessRuleMaintenance
+Config\04_PostData\2683_BusinessRule\020_GC_Restriction.BusinessRuleMaintenance
+Config\04_PostData\2683_BusinessRule\021_Age_Approval_21.ConditionalRestrictionRuleMaintenance
+Config\04_PostData\2683_BusinessRule\022_iTunesSaleRestrictiononSCO.BusinessRuleMaintenance
+Config\04_PostData\2683_BusinessRule\023_Age_Approval_18.ConditionalRestrictionRuleMaintenance
+Config\06_Test_Data\0.1.Security_scale_maintenance\001_SecurityScaleConfigurationMaintenance.SecurityScaleConfigurationMaintenance
+Config\06_Test_Data\0.1.Security_scale_maintenance\001_WeightCheck.ItemHierarchyMaintenance
+Config\06_Test_Data\0.1.Security_scale_maintenance\002_WeightCheckGroupCreate.LocationConsumableGroupMaintenance
+Config\06_Test_Data\0.1.Security_scale_maintenance\003_WeightCheckProduct.ProductMaintenance
+Config\06_Test_Data\0.1.Security_scale_maintenance\004_WeightCheckProductPrice.PriceMaintenance
+Config\06_Test_Data\007.AccountProfileMaintenance\011_AccountSaveOrUpdateRequest.AccountSaveOrUpdate
+Config\06_Test_Data\007.AccountProfileMaintenance\012_AccountSaveOrUpdateRequest.AccountSaveOrUpdate
+Config\06_Test_Data\011.SCOIntervention\005_ScoInterventionConfigurationMaintenanceRequest.ScoInterventionConfigurationMaintenance
+Config\06_Test_Data\012.Govtech Products\000_Brands.ItemHierarchyMaintenance
+Config\06_Test_Data\012.Govtech Products\001_GovTech.ItemHierarchyMaintenance
+Config\06_Test_Data\012.Govtech Products\002_GovTechGroupCreate.LocationConsumableGroupMaintenance
+Config\06_Test_Data\012.Govtech Products\003_GovTechProduct.ProductMaintenance
+Config\06_Test_Data\012.Govtech Products\004_GovTechProductPrice.PriceMaintenance
+Config\06_Test_Data\012.Govtech Products\005_ProductMaintenance.ProductMaintenance
+Config\06_Test_Data\017.BRM\018_ChiefCashierApproval_AccessTrainingMode.BusinessRuleMaintenance
+Config\06_Test_Data\017.BRM\447-TimeRestriction1.ConditionalRestrictionRuleMaintenance
+Config\06_Test_Data\017.BRM\447-TimeRestriction2.ConditionalRestrictionRuleMaintenance
+Config\06_Test_Data\017.BRM\447-TimeRestriction3.ConditionalRestrictionRuleMaintenance
+Config\06_Test_Data\017.BRM\447-TimeRestriction4.ConditionalRestrictionRuleMaintenance
+Config\06_Test_Data\017.BRM\Non447-TimeRestriction1.ConditionalRestrictionRuleMaintenance
+Config\06_Test_Data\017.BRM\Non447-TimeRestriction2.ConditionalRestrictionRuleMaintenance
+Config\06_Test_Data\05.LMSPromotionProducts\001_LMS.ItemHierarchyMaintenance
+Config\06_Test_Data\05.LMSPromotionProducts\002_LMSGroupCreate.LocationConsumableGroupMaintenance
+Config\06_Test_Data\05.LMSPromotionProducts\003_LMSProduct.ProductMaintenance
+Config\06_Test_Data\05.LMSPromotionProducts\004_LMSProductPrice.PriceMaintenance
+Config\06_Test_Data\4.RestrictionMaintenance\001_122490.RestrictionMaintenance
+Config\07_LP\02_Prod\003_SellWithoutDiscountWhenPEIsNotReachable.SystemParametersAdd
+NtucProvidersAdapter\Installation\Config\ProductWiX.config
+NtucProvidersAdapter\Installation\Project\NTUCProvidersAdapter.build
+NtucProvidersAdapter\Installation\Project\NTUCProvidersAdapter.sln
+NtucProvidersAdapter\Installation\Project\NTUCProvidersAdapter.wixproj
+NtucProvidersAdapter\Installation\Project\Product.wxs
+NtucProvidersAdapter\Installation\Project\StaticComponents.wxs
+NtucProvidersAdapter\Installation\Project\StaticContent.wxs
+NtucProvidersAdapter\Installation\Project\StaticDirectories.wxs
+SSCO Config\Merge\03.Customer_Env\001.DebugMode.ReceiptConfigurationParametersMaintenance
+SSCO Config\Merge\03.Customer_Env\001.TransactionLog.ConfigurationMaintenance
+Config\01_Basic\002.TouchPoints\001.TouchPointGroups\001.SCO.TouchPointGroupAdd
+Config\01_Basic\002.TouchPoints\003.TouchPointCommandsMaintenance\004_SCO.touchpointcommandsmaintenance
+Config\01_Basic\035.MenuConfiguration\01.CommandMenu\1_SCO_Commandmenu.menuconfigurationmaintenance
+Config\01_Basic\035.MenuConfiguration\03.TenderMenu\002_TendersMenu_SCO_TPG.MenuConfigurationMaintenance
+Config\01_Basic\035.MenuConfiguration\04.PLUMenu\001_POS_PLU.MenuConfigurationMaintenance
+Config\01_Basic\035.MenuConfiguration\04.PLUMenu\101_POS.MenuDisplayTermsMaintenance
+Config\01_Basic\220.Receipt\001_Receipt Slip Type\039.ExternalSlipData.ReceiptSlipTypeMaintenance
+Config\01_Basic\220.Receipt\002_Receipt Line Definition\282.PayByPointsAsTenderAuthorizationCustomerReceipt.ReceiptLineDefinitionMaintenance
+Config\01_Basic\220.Receipt\002_Receipt Line Definition\283.LinkCardReceipt.ReceiptLineDefinitionMaintenance
+Config\01_Basic\220.Receipt\002_Receipt Line Definition\284.LoyaltyRedeemed.ReceiptLineDefinitionMaintenance
+Config\01_Basic\220.Receipt\002_Receipt Line Definition\285.ExternalSlipData.ReceiptLineDefinitionMaintenance
+Config\01_Basic\220.Receipt\003_Receipt Template\287.PayByPointsAsTenderAuthorizationCustomerReceipt.LayoutTemplateMaintenance
+Config\01_Basic\220.Receipt\003_Receipt Template\288.LinkCardReceipt.LayoutTemplateMaintenance
+Config\01_Basic\220.Receipt\003_Receipt Template\289.LoyaltyRedeemed.LayoutTemplateMaintenance
+Config\01_Basic\220.Receipt\003_Receipt Template\290.ExternalSlipDataTemplate.LayoutTemplateMaintenance
+Config\01_Basic\220.Receipt\004_Receipt Layout\041.ExternalSlipData.ReceiptLayoutMaintenance
+Config\01_Basic\350.OlaMessages\001.MessageAdd\GovTech_IN_386.MessageAdd
+Config\01_Basic\350.OlaMessages\001.MessageAdd\GovTech_TT_503.MessageAdd
+Config\01_Basic\350.OlaMessages\001.MessageAdd\OCBC_AP_10.MessageAdd
+Config\01_Basic\350.OlaMessages\001.MessageAdd\OCBC_AU_16.MessageAdd
+Config\01_Basic\350.OlaMessages\001.MessageAdd\OCBC_AV_11.MessageAdd
+Config\01_Basic\350.OlaMessages\001.MessageAdd\OCBC_BAO_79.MessageAdd
+Config\01_Basic\350.OlaMessages\001.MessageAdd\OCBC_BNF_85.MessageAdd
+Config\01_Basic\350.OlaMessages\001.MessageAdd\OCBC_BN_31.MessageAdd
+Config\01_Basic\350.OlaMessages\001.MessageAdd\OCBC_BTI_89.MessageAdd
+Config\01_Basic\350.OlaMessages\001.MessageAdd\OCBC_BTW_95.MessageAdd
+Config\01_Basic\350.OlaMessages\001.MessageAdd\OCBC_CA_35.MessageAdd
+Config\01_Basic\350.OlaMessages\001.MessageAdd\OCBC_CA_37.MessageAdd
+Config\01_Basic\350.OlaMessages\001.MessageAdd\OCBC_CA_60.MessageAdd
+Config\01_Basic\350.OlaMessages\001.MessageAdd\OCBC_CA_66.MessageAdd
+Config\01_Basic\350.OlaMessages\001.MessageAdd\OCBC_CC_17.MessageAdd
+Config\01_Basic\350.OlaMessages\001.MessageAdd\OCBC_CD_18.MessageAdd
+Config\01_Basic\350.OlaMessages\001.MessageAdd\OCBC_CIP_90.MessageAdd
+Config\01_Basic\350.OlaMessages\001.MessageAdd\OCBC_CP_32.MessageAdd
+Config\01_Basic\350.OlaMessages\001.MessageAdd\OCBC_DC_51.MessageAdd
+Config\01_Basic\350.OlaMessages\001.MessageAdd\OCBC_DN_5.MessageAdd
+Config\01_Basic\350.OlaMessages\001.MessageAdd\OCBC_DR_26.MessageAdd
+Config\01_Basic\350.OlaMessages\001.MessageAdd\OCBC_ECHN_91.MessageAdd
+Config\01_Basic\350.OlaMessages\001.MessageAdd\OCBC_ECHS_94.MessageAdd
+Config\01_Basic\350.OlaMessages\001.MessageAdd\OCBC_ECHS_96.MessageAdd
+Config\01_Basic\350.OlaMessages\001.MessageAdd\OCBC_EC_12.MessageAdd
+Config\01_Basic\350.OlaMessages\001.MessageAdd\OCBC_EC_13.MessageAdd
+Config\01_Basic\350.OlaMessages\001.MessageAdd\OCBC_EC_14.MessageAdd
+Config\01_Basic\350.OlaMessages\001.MessageAdd\OCBC_EC_25.MessageAdd
+Config\01_Basic\350.OlaMessages\001.MessageAdd\OCBC_EC_3.MessageAdd
+Config\01_Basic\350.OlaMessages\001.MessageAdd\OCBC_EC_30.MessageAdd
+Config\01_Basic\350.OlaMessages\001.MessageAdd\OCBC_EC_33.MessageAdd
+Config\01_Basic\350.OlaMessages\001.MessageAdd\OCBC_EC_54.MessageAdd
+Config\01_Basic\350.OlaMessages\001.MessageAdd\OCBC_EL_61.MessageAdd
+Config\01_Basic\350.OlaMessages\001.MessageAdd\OCBC_ER_6.MessageAdd
+Config\01_Basic\350.OlaMessages\001.MessageAdd\OCBC_FE_27.MessageAdd
+Config\01_Basic\350.OlaMessages\001.MessageAdd\OCBC_FL_28.MessageAdd
+Config\01_Basic\350.OlaMessages\001.MessageAdd\OCBC_FN_40.MessageAdd
+Config\01_Basic\350.OlaMessages\001.MessageAdd\OCBC_FU_24.MessageAdd
+Config\01_Basic\350.OlaMessages\001.MessageAdd\OCBC_FU_29.MessageAdd
+Config\01_Basic\350.OlaMessages\001.MessageAdd\OCBC_HCCA_88.MessageAdd
+Config\01_Basic\350.OlaMessages\001.MessageAdd\OCBC_HC_67.MessageAdd
+Config\01_Basic\350.OlaMessages\001.MessageAdd\OCBC_IA_44.MessageAdd
+Config\01_Basic\350.OlaMessages\001.MessageAdd\OCBC_IE_45.MessageAdd
+Config\01_Basic\350.OlaMessages\001.MessageAdd\OCBC_IE_46.MessageAdd
+Config\01_Basic\350.OlaMessages\001.MessageAdd\OCBC_IE_47.MessageAdd
+Config\01_Basic\350.OlaMessages\001.MessageAdd\OCBC_IE_48.MessageAdd
+Config\01_Basic\350.OlaMessages\001.MessageAdd\OCBC_IE_49.MessageAdd
+Config\01_Basic\350.OlaMessages\001.MessageAdd\OCBC_IE_50.MessageAdd
+Config\01_Basic\350.OlaMessages\001.MessageAdd\OCBC_IE_69.MessageAdd
+Config\01_Basic\350.OlaMessages\001.MessageAdd\OCBC_IE_70.MessageAdd
+Config\01_Basic\350.OlaMessages\001.MessageAdd\OCBC_IE_71.MessageAdd
+Config\01_Basic\350.OlaMessages\001.MessageAdd\OCBC_IE_72.MessageAdd
+Config\01_Basic\350.OlaMessages\001.MessageAdd\OCBC_IE_73.MessageAdd
+Config\01_Basic\350.OlaMessages\001.MessageAdd\OCBC_IE_74.MessageAdd
+Config\01_Basic\350.OlaMessages\001.MessageAdd\OCBC_IP_55.MessageAdd
+Config\01_Basic\350.OlaMessages\001.MessageAdd\OCBC_IR__20.MessageAdd
+Config\01_Basic\350.OlaMessages\001.MessageAdd\OCBC_IT_58.MessageAdd
+Config\01_Basic\350.OlaMessages\001.MessageAdd\OCBC_KSE_76.MessageAdd
+Config\01_Basic\350.OlaMessages\001.MessageAdd\OCBC_LC_41.MessageAdd
+Config\01_Basic\350.OlaMessages\001.MessageAdd\OCBC_LE_65.MessageAdd
+Config\01_Basic\350.OlaMessages\001.MessageAdd\OCBC_NC_39.MessageAdd
+Config\01_Basic\350.OlaMessages\001.MessageAdd\OCBC_NC_52.MessageAdd
+Config\01_Basic\350.OlaMessages\001.MessageAdd\OCBC_NC_56.MessageAdd
+Config\01_Basic\350.OlaMessages\001.MessageAdd\OCBC_NI_15.MessageAdd
+Config\01_Basic\350.OlaMessages\001.MessageAdd\OCBC_NS_53.MessageAdd
+Config\01_Basic\350.OlaMessages\001.MessageAdd\OCBC_NT_21.MessageAdd
+Config\01_Basic\350.OlaMessages\001.MessageAdd\OCBC_OA_64.MessageAdd
+Config\01_Basic\350.OlaMessages\001.MessageAdd\OCBC_PC_1.MessageAdd
+Config\01_Basic\350.OlaMessages\001.MessageAdd\OCBC_PC_4.MessageAdd
+Config\01_Basic\350.OlaMessages\001.MessageAdd\OCBC_PC_43.MessageAdd
+Config\01_Basic\350.OlaMessages\001.MessageAdd\OCBC_PC_7.MessageAdd
+Config\01_Basic\350.OlaMessages\001.MessageAdd\OCBC_PE_38.MessageAdd
+Config\01_Basic\350.OlaMessages\001.MessageAdd\OCBC_PE_81.MessageAdd
+Config\01_Basic\350.OlaMessages\001.MessageAdd\OCBC_PE_82.MessageAdd
+Config\01_Basic\350.OlaMessages\001.MessageAdd\OCBC_PE_83.MessageAdd
+Config\01_Basic\350.OlaMessages\001.MessageAdd\OCBC_PE_84.MessageAdd
+Config\01_Basic\350.OlaMessages\001.MessageAdd\OCBC_PE_86.MessageAdd
+Config\01_Basic\350.OlaMessages\001.MessageAdd\OCBC_PE_87.MessageAdd
+Config\01_Basic\350.OlaMessages\001.MessageAdd\OCBC_PTE_75.MessageAdd
+Config\01_Basic\350.OlaMessages\001.MessageAdd\OCBC_RC_36.MessageAdd
+Config\01_Basic\350.OlaMessages\001.MessageAdd\OCBC_RC_59.MessageAdd
+Config\01_Basic\350.OlaMessages\001.MessageAdd\OCBC_RC_62.MessageAdd
+Config\01_Basic\350.OlaMessages\001.MessageAdd\OCBC_RE_2.MessageAdd
+Config\01_Basic\350.OlaMessages\001.MessageAdd\OCBC_RE_77.MessageAdd
+Config\01_Basic\350.OlaMessages\001.MessageAdd\OCBC_RFN_80.MessageAdd
+Config\01_Basic\350.OlaMessages\001.MessageAdd\OCBC_RP_9.MessageAdd
+Config\01_Basic\350.OlaMessages\001.MessageAdd\OCBC_RR_68.MessageAdd
+Config\01_Basic\350.OlaMessages\001.MessageAdd\OCBC_RT_19.MessageAdd
+Config\01_Basic\350.OlaMessages\001.MessageAdd\OCBC_SF_34.MessageAdd
+Config\01_Basic\350.OlaMessages\001.MessageAdd\OCBC_SM_22.MessageAdd
+Config\01_Basic\350.OlaMessages\001.MessageAdd\OCBC_SV_63.MessageAdd
+Config\01_Basic\350.OlaMessages\001.MessageAdd\OCBC_TCBC_93.MessageAdd
+Config\01_Basic\350.OlaMessages\001.MessageAdd\OCBC_TCBR_92.MessageAdd
+Config\01_Basic\350.OlaMessages\001.MessageAdd\OCBC_TNF_78.MessageAdd
+Config\01_Basic\350.OlaMessages\001.MessageAdd\OCBC_TN_57.MessageAdd
+Config\01_Basic\350.OlaMessages\001.MessageAdd\OCBC_UA_42.MessageAdd
+Config\01_Basic\350.OlaMessages\001.MessageAdd\OCBC_UT_23.MessageAdd
+Config\01_Basic\350.OlaMessages\001.MessageAdd\OCBC_VS_8.MessageAdd
+Config\01_Basic\350.OlaMessages\002.OLAMessageMaintenance\GovTech_IN_386.OLAMessageMaintenance
+Config\01_Basic\350.OlaMessages\002.OLAMessageMaintenance\GovTech_TT_503.OLAMessageMaintenance
+Config\01_Basic\350.OlaMessages\002.OLAMessageMaintenance\OCBC_AP_10.OLAMessageMaintenance
+Config\01_Basic\350.OlaMessages\002.OLAMessageMaintenance\OCBC_AU_16.OLAMessageMaintenance
+Config\01_Basic\350.OlaMessages\002.OLAMessageMaintenance\OCBC_AV_11.OLAMessageMaintenance
+Config\01_Basic\350.OlaMessages\002.OLAMessageMaintenance\OCBC_BAO_79.OLAMessageMaintenance
+Config\01_Basic\350.OlaMessages\002.OLAMessageMaintenance\OCBC_BNF_85.OLAMessageMaintenance
+Config\01_Basic\350.OlaMessages\002.OLAMessageMaintenance\OCBC_BN_31.OLAMessageMaintenance
+Config\01_Basic\350.OlaMessages\002.OLAMessageMaintenance\OCBC_BTI_89.OLAMessageMaintenance
+Config\01_Basic\350.OlaMessages\002.OLAMessageMaintenance\OCBC_BTW_95.OLAMessageMaintenance
+Config\01_Basic\350.OlaMessages\002.OLAMessageMaintenance\OCBC_CA_35.OLAMessageMaintenance
+Config\01_Basic\350.OlaMessages\002.OLAMessageMaintenance\OCBC_CA_37.OLAMessageMaintenance
+Config\01_Basic\350.OlaMessages\002.OLAMessageMaintenance\OCBC_CA_60.OLAMessageMaintenance
+Config\01_Basic\350.OlaMessages\002.OLAMessageMaintenance\OCBC_CA_66.OLAMessageMaintenance
+Config\01_Basic\350.OlaMessages\002.OLAMessageMaintenance\OCBC_CC_17.OLAMessageMaintenance
+Config\01_Basic\350.OlaMessages\002.OLAMessageMaintenance\OCBC_CD_18.OLAMessageMaintenance
+Config\01_Basic\350.OlaMessages\002.OLAMessageMaintenance\OCBC_CIP_90.OLAMessageMaintenance
+Config\01_Basic\350.OlaMessages\002.OLAMessageMaintenance\OCBC_CP_32.OLAMessageMaintenance
+Config\01_Basic\350.OlaMessages\002.OLAMessageMaintenance\OCBC_DC_51.OLAMessageMaintenance
+Config\01_Basic\350.OlaMessages\002.OLAMessageMaintenance\OCBC_DN_5.OLAMessageMaintenance
+Config\01_Basic\350.OlaMessages\002.OLAMessageMaintenance\OCBC_DR_26.OLAMessageMaintenance
+Config\01_Basic\350.OlaMessages\002.OLAMessageMaintenance\OCBC_ECHN_91.OLAMessageMaintenance
+Config\01_Basic\350.OlaMessages\002.OLAMessageMaintenance\OCBC_ECHS_94.OLAMessageMaintenance
+Config\01_Basic\350.OlaMessages\002.OLAMessageMaintenance\OCBC_ECHS_96.OLAMessageMaintenance
+Config\01_Basic\350.OlaMessages\002.OLAMessageMaintenance\OCBC_EC_12.OLAMessageMaintenance
+Config\01_Basic\350.OlaMessages\002.OLAMessageMaintenance\OCBC_EC_13.OLAMessageMaintenance
+Config\01_Basic\350.OlaMessages\002.OLAMessageMaintenance\OCBC_EC_14.OLAMessageMaintenance
+Config\01_Basic\350.OlaMessages\002.OLAMessageMaintenance\OCBC_EC_25.OLAMessageMaintenance
+Config\01_Basic\350.OlaMessages\002.OLAMessageMaintenance\OCBC_EC_3.OLAMessageMaintenance
+Config\01_Basic\350.OlaMessages\002.OLAMessageMaintenance\OCBC_EC_30.OLAMessageMaintenance
+Config\01_Basic\350.OlaMessages\002.OLAMessageMaintenance\OCBC_EC_33.OLAMessageMaintenance
+Config\01_Basic\350.OlaMessages\002.OLAMessageMaintenance\OCBC_EC_54.OLAMessageMaintenance
+Config\01_Basic\350.OlaMessages\002.OLAMessageMaintenance\OCBC_EL_61.OLAMessageMaintenance
+Config\01_Basic\350.OlaMessages\002.OLAMessageMaintenance\OCBC_ER_6.OLAMessageMaintenance
+Config\01_Basic\350.OlaMessages\002.OLAMessageMaintenance\OCBC_FE_27.OLAMessageMaintenance
+Config\01_Basic\350.OlaMessages\002.OLAMessageMaintenance\OCBC_FL_28.OLAMessageMaintenance
+Config\01_Basic\350.OlaMessages\002.OLAMessageMaintenance\OCBC_FN_40.OLAMessageMaintenance
+Config\01_Basic\350.OlaMessages\002.OLAMessageMaintenance\OCBC_FU_24.OLAMessageMaintenance
+Config\01_Basic\350.OlaMessages\002.OLAMessageMaintenance\OCBC_FU_29.OLAMessageMaintenance
+Config\01_Basic\350.OlaMessages\002.OLAMessageMaintenance\OCBC_HCCA_88.OLAMessageMaintenance
+Config\01_Basic\350.OlaMessages\002.OLAMessageMaintenance\OCBC_HC_67.OLAMessageMaintenance
+Config\01_Basic\350.OlaMessages\002.OLAMessageMaintenance\OCBC_IA_44.OLAMessageMaintenance
+Config\01_Basic\350.OlaMessages\002.OLAMessageMaintenance\OCBC_IE_45.OLAMessageMaintenance
+Config\01_Basic\350.OlaMessages\002.OLAMessageMaintenance\OCBC_IE_46.OLAMessageMaintenance
+Config\01_Basic\350.OlaMessages\002.OLAMessageMaintenance\OCBC_IE_47.OLAMessageMaintenance
+Config\01_Basic\350.OlaMessages\002.OLAMessageMaintenance\OCBC_IE_48.OLAMessageMaintenance
+Config\01_Basic\350.OlaMessages\002.OLAMessageMaintenance\OCBC_IE_49.OLAMessageMaintenance
+Config\01_Basic\350.OlaMessages\002.OLAMessageMaintenance\OCBC_IE_50.OLAMessageMaintenance
+Config\01_Basic\350.OlaMessages\002.OLAMessageMaintenance\OCBC_IE_69.OLAMessageMaintenance
+Config\01_Basic\350.OlaMessages\002.OLAMessageMaintenance\OCBC_IE_70.OLAMessageMaintenance
+Config\01_Basic\350.OlaMessages\002.OLAMessageMaintenance\OCBC_IE_71.OLAMessageMaintenance
+Config\01_Basic\350.OlaMessages\002.OLAMessageMaintenance\OCBC_IE_72.OLAMessageMaintenance
+Config\01_Basic\350.OlaMessages\002.OLAMessageMaintenance\OCBC_IE_73.OLAMessageMaintenance
+Config\01_Basic\350.OlaMessages\002.OLAMessageMaintenance\OCBC_IE_74.OLAMessageMaintenance
+Config\01_Basic\350.OlaMessages\002.OLAMessageMaintenance\OCBC_IP_55.OLAMessageMaintenance
+Config\01_Basic\350.OlaMessages\002.OLAMessageMaintenance\OCBC_IR__20.OLAMessageMaintenance
+Config\01_Basic\350.OlaMessages\002.OLAMessageMaintenance\OCBC_IT_58.OLAMessageMaintenance
+Config\01_Basic\350.OlaMessages\002.OLAMessageMaintenance\OCBC_KSE_76.OLAMessageMaintenance
+Config\01_Basic\350.OlaMessages\002.OLAMessageMaintenance\OCBC_LC_41.OLAMessageMaintenance
+Config\01_Basic\350.OlaMessages\002.OLAMessageMaintenance\OCBC_LE_65.OLAMessageMaintenance
+Config\01_Basic\350.OlaMessages\002.OLAMessageMaintenance\OCBC_NC_39.OLAMessageMaintenance
+Config\01_Basic\350.OlaMessages\002.OLAMessageMaintenance\OCBC_NC_52.OLAMessageMaintenance
+Config\01_Basic\350.OlaMessages\002.OLAMessageMaintenance\OCBC_NC_56.OLAMessageMaintenance
+Config\01_Basic\350.OlaMessages\002.OLAMessageMaintenance\OCBC_NI_15.OLAMessageMaintenance
+Config\01_Basic\350.OlaMessages\002.OLAMessageMaintenance\OCBC_NS_53.OLAMessageMaintenance
+Config\01_Basic\350.OlaMessages\002.OLAMessageMaintenance\OCBC_NT_21.OLAMessageMaintenance
+Config\01_Basic\350.OlaMessages\002.OLAMessageMaintenance\OCBC_OA_64.OLAMessageMaintenance
+Config\01_Basic\350.OlaMessages\002.OLAMessageMaintenance\OCBC_PC_1.OLAMessageMaintenance
+Config\01_Basic\350.OlaMessages\002.OLAMessageMaintenance\OCBC_PC_4.OLAMessageMaintenance
+Config\01_Basic\350.OlaMessages\002.OLAMessageMaintenance\OCBC_PC_43.OLAMessageMaintenance
+Config\01_Basic\350.OlaMessages\002.OLAMessageMaintenance\OCBC_PC_7.OLAMessageMaintenance
+Config\01_Basic\350.OlaMessages\002.OLAMessageMaintenance\OCBC_PE_38.OLAMessageMaintenance
+Config\01_Basic\350.OlaMessages\002.OLAMessageMaintenance\OCBC_PE_81.OLAMessageMaintenance
+Config\01_Basic\350.OlaMessages\002.OLAMessageMaintenance\OCBC_PE_82.OLAMessageMaintenance
+Config\01_Basic\350.OlaMessages\002.OLAMessageMaintenance\OCBC_PE_83.OLAMessageMaintenance
+Config\01_Basic\350.OlaMessages\002.OLAMessageMaintenance\OCBC_PE_84.OLAMessageMaintenance
+Config\01_Basic\350.OlaMessages\002.OLAMessageMaintenance\OCBC_PE_86.OLAMessageMaintenance
+Config\01_Basic\350.OlaMessages\002.OLAMessageMaintenance\OCBC_PE_87.OLAMessageMaintenance
+Config\01_Basic\350.OlaMessages\002.OLAMessageMaintenance\OCBC_PTE_75.OLAMessageMaintenance
+Config\01_Basic\350.OlaMessages\002.OLAMessageMaintenance\OCBC_RC_36.OLAMessageMaintenance
+Config\01_Basic\350.OlaMessages\002.OLAMessageMaintenance\OCBC_RC_59.OLAMessageMaintenance
+Config\01_Basic\350.OlaMessages\002.OLAMessageMaintenance\OCBC_RC_62.OLAMessageMaintenance
+Config\01_Basic\350.OlaMessages\002.OLAMessageMaintenance\OCBC_RE_2.OLAMessageMaintenance
+Config\01_Basic\350.OlaMessages\002.OLAMessageMaintenance\OCBC_RE_77.OLAMessageMaintenance
+Config\01_Basic\350.OlaMessages\002.OLAMessageMaintenance\OCBC_RFN_80.OLAMessageMaintenance
+Config\01_Basic\350.OlaMessages\002.OLAMessageMaintenance\OCBC_RP_9.OLAMessageMaintenance
+Config\01_Basic\350.OlaMessages\002.OLAMessageMaintenance\OCBC_RR_68.OLAMessageMaintenance
+Config\01_Basic\350.OlaMessages\002.OLAMessageMaintenance\OCBC_RT_19.OLAMessageMaintenance
+Config\01_Basic\350.OlaMessages\002.OLAMessageMaintenance\OCBC_SF_34.OLAMessageMaintenance
+Config\01_Basic\350.OlaMessages\002.OLAMessageMaintenance\OCBC_SM_22.OLAMessageMaintenance
+Config\01_Basic\350.OlaMessages\002.OLAMessageMaintenance\OCBC_SV_63.OLAMessageMaintenance
+Config\01_Basic\350.OlaMessages\002.OLAMessageMaintenance\OCBC_TCBC_93.OLAMessageMaintenance
+Config\01_Basic\350.OlaMessages\002.OLAMessageMaintenance\OCBC_TCBR_92.OLAMessageMaintenance
+Config\01_Basic\350.OlaMessages\002.OLAMessageMaintenance\OCBC_TNF_78.OLAMessageMaintenance
+Config\01_Basic\350.OlaMessages\002.OLAMessageMaintenance\OCBC_TN_57.OLAMessageMaintenance
+Config\01_Basic\350.OlaMessages\002.OLAMessageMaintenance\OCBC_UA_42.OLAMessageMaintenance
+Config\01_Basic\350.OlaMessages\002.OLAMessageMaintenance\OCBC_UT_23.OLAMessageMaintenance
+Config\01_Basic\350.OlaMessages\002.OLAMessageMaintenance\OCBC_VS_8.OLAMessageMaintenance
+Config\06_Test_Data\1.items\Price\002_9999990000001_0_EA.PriceMaintenance
+Config\06_Test_Data\1.items\Price\10624176.PriceMaintenance
+Config\06_Test_Data\1.items\Price\5704.PriceMaintenance
+Config\06_Test_Data\1.items\Price\58215.PriceMaintenance
+Config\06_Test_Data\1.items\Product\001_9999990000001_age18.ProductMaintenance
+Config\06_Test_Data\1.items\Product\10624176.ProductMaintenance
+Config\06_Test_Data\1.items\Product\122490.ProductMaintenance
+Config\06_Test_Data\1.items\Product\5704.ProductMaintenance
+Config\06_Test_Data\1.items\Product\571.ProductMaintenance
+Config\06_Test_Data\1.items\Product\58215.ProductMaintenance
+Config\07_LP\01_NCR\01_QA\001_PES_Promotion_Root.NEPConnectionConfigurationMaintenance
+Config\07_LP\01_NCR\01_QA\002_PES_Loyalty_Root.NEPConnectionConfigurationMaintenance
+NtucProvidersAdapter\Installation\Project\Dynamic\DynamicContent.wxi
+NtucProvidersAdapter\Installation\Project\Dynamic\DynamicFolders.wxi
+NtucProvidersAdapter\Installation\Project\Include\CustomActions.wxi
+NtucProvidersAdapter\Installation\Project\Include\CustomTables.wxi
+NtucProvidersAdapter\Installation\Project\Include\Definitions.wxi
+NtucProvidersAdapter\Installation\Project\Include\InstallSequences.wxi
+NtucProvidersAdapter\Installation\Project\Include\Properties.wxi
+NtucProvidersAdapter\Installation\Project\Localization\WixUI_en-us.wxl
+NtucProvidersAdapter\Installation\Project\UI\GeneralDialogs.wxs
+NtucProvidersAdapter\Installation\Project\UI\UI.wxs
+NtucProvidersAdapter\Installation\Project\UI\UIDefinitions.wxs
+NtucProvidersAdapter\Installation\SupportFiles\Bitmaps\Banner_NCR10.jpg
+NtucProvidersAdapter\Installation\SupportFiles\Bitmaps\Frame_NCR10.jpg
+NtucProvidersAdapter\Installation\SupportFiles\Bitmaps\NCR.ico
+SSCO Config\Common\01.Basic\008.DataPattern\Ecoupon.DataPatternAdd
+SSCO Config\Common\01.Basic\008.DataPattern\SupplierBarcode.DataPatternAdd
+SSCO Config\Common\03.Customer_Env\1321_Drawer Accountability\154.FundTransferOfficeHeader_CashOffice.LayoutTemplateMaintenance
+SSCO Config\Common\03.Customer_Env\1321_Drawer Accountability\159.DeclarationOfficeHeader_CashOffice.LayoutTemplateMaintenance
+SSCO Config\Common\03.Customer_Env\1321_Drawer Accountability\DataProtectionConfigurationMaintenance.DataProtectionConfigurationMaintenance
+SSCO Config\Common\03.Customer_Env\1321_Drawer Accountability\DrawerAccountability.SystemParametersAdd
+SSCO Config\Common\03.Customer_Env\1321_Drawer Accountability\OfficeBusinessConfigurationMaintenance.OfficeBusinessConfigurationMaintenance
+SSCO Config\Merge\01.Basic\002.Roles\001_Administrator.IdmUpdateRole
+SSCO Config\Merge\01.Basic\002.Roles\002_Cashier.IdmUpdateRole
+SSCO Config\Merge\01.Basic\002.Roles\003_Chief_Cashier.IdmUpdateRole
+SSCO Config\Merge\01.Basic\002.Roles\004_Team_Leader.IdmUpdateRole
+SSCO Config\Merge\01.Basic\002.Roles\005_Store_Manager.IdmUpdateRole
+SSCO Config\Merge\01.Basic\002.Roles\006_Store_manager_FO_Only.IdmUpdateRole
+SSCO Config\Merge\01.Basic\002.Roles\007_Corporate_IT_FO_Only.IdmUpdateRole
+SSCO Config\Merge\01.Basic\002.Roles\008_Installation User.IdmUpdateRole
+SSCO Config\Merge\01.Basic\002.Roles\009_Service_Counter.IdmAddRole
+SSCO Config\Merge\01.Basic\002.Roles\010_Appliance_Counter.IdmAddRole
+SSCO Config\Merge\01.Basic\002.Roles\014_BGS-FO_Only.IdmAddRole
+SSCO Config\Merge\01.Basic\002.Roles\015_SCO.IdmAddRole
+SSCO Config\Merge\01.Basic\002.Roles\015_SCO.IdmUpdateRole
+SSCO Config\Merge\01.Basic\002.Roles\016_Executive_User.IdmAddRole
+SSCO Config\Merge\01.Basic\002.Roles\017_Audit_Finance_FO_Only.IdmAddRole
+SSCO Config\Merge\01.Basic\002.Roles\077_LoyaltyServiceRole.IdmAddRole
+SSCO Config\Merge\01.Basic\003.Messages\001_Retrunitem_Supervisor_ApprovalMsg.MessageAdd
+SSCO Config\Merge\01.Basic\003.Messages\002_Void_Transaction_Supervisor_ApprovalMsg.MessageAdd
+SSCO Config\Merge\01.Basic\003.Messages\003_AgeApproval18.messageadd
+SSCO Config\Merge\01.Basic\003.Messages\003_Item_Void_Supervisor_Approval.MessageAdd
+SSCO Config\Merge\01.Basic\003.Messages\004_AgeChallange.messageadd
+SSCO Config\Merge\01.Basic\003.Messages\004_CashierNeedABreak.MessageAdd
+SSCO Config\Merge\01.Basic\003.Messages\005_XreportApproval.MessageAdd
+SSCO Config\Merge\01.Basic\003.Messages\006_NcrOposPrinterDoesNotExist.MessageAdd
+SSCO Config\Merge\01.Basic\003.Messages\007_OposCashDrawerDoesNotExist.MessageAdd
+SSCO Config\Merge\01.Basic\003.Messages\008_OposPrinterDoesNotExist.MessageAdd
+SSCO Config\Merge\01.Basic\003.Messages\009_OposScaleDoesNotExist.MessageAdd
+SSCO Config\Merge\01.Basic\003.Messages\010_OposScannerDoesNotExist.MessageAdd
+SSCO Config\Merge\01.Basic\003.Messages\011_OPOSCoverOpen.MessageAdd
+SSCO Config\Merge\01.Basic\003.Messages\012_OPOSPrinterAlmostOutOfPaper.MessageAdd
+SSCO Config\Merge\01.Basic\003.Messages\013_OposScaleUnderWeight.MessageAdd
+SSCO Config\Merge\01.Basic\003.Messages\015_NcrOposPrinterOutOfPaper.MessageAdd
+SSCO Config\Merge\01.Basic\003.Messages\016_OposPrinterOutOfPaper.MessageAdd
+SSCO Config\Merge\01.Basic\003.Messages\017_NRR_Aproval.MessageAdd
+SSCO Config\Merge\01.Basic\003.Messages\018_ProhibitRefund.MessageAdd
+SSCO Config\Merge\01.Basic\003.Messages\019._ManagerApprovalRequierd_CentralReturn.MessageAdd
+SSCO Config\Merge\01.Basic\003.Messages\020_SingleBatchLimit.MessageAdd
+SSCO Config\Merge\01.Basic\003.Messages\021_Training_Mode_Access.MessageAdd
+SSCO Config\Merge\01.Basic\003.Messages\023_AgeApproval21.messageadd
+SSCO Config\Merge\01.Basic\003.Messages\024_TimeRestricted_Alcohol_Msg.messageadd
+SSCO Config\Merge\01.Basic\003.Messages\025_iTunesSaleRestrictiononSCO.MessageAdd
+SSCO Config\Merge\01.Basic\003.Messages\21.GC_Restriction.MessageAdd
+SSCO Config\Merge\01.Basic\003.Messages\22.GC Quantity Restriction.MessageAdd
+SSCO Config\Merge\01.Basic\005.AlertGroupMaintenance\003._POSManualAlerts.AlertGroupMaintenance
+SSCO Config\Merge\01.Basic\005.AlertGroupMaintenance\004.BusinessAutomaticAlert.AlertGroupMaintenance
+SSCO Config\Merge\01.Basic\005.Roles_Permissions\001_Administrator.UserConfigurationPermissionsMaintenance
+SSCO Config\Merge\01.Basic\005.Roles_Permissions\003_Chief Cashier.UserConfigurationPermissionsMaintenance
+SSCO Config\Merge\01.Basic\005.Roles_Permissions\004_Team Leader.UserConfigurationPermissionsMaintenance
+SSCO Config\Merge\01.Basic\005.Roles_Permissions\005_Store Manager.UserConfigurationPermissionsMaintenance
+SSCO Config\Merge\01.Basic\005.Roles_Permissions\006_Store Admin_FO_Only.UserConfigurationPermissionsMaintenance
+SSCO Config\Merge\01.Basic\005.Roles_Permissions\007_Corporate IT_FO_Only.UserConfigurationPermissionsMaintenance
+SSCO Config\Merge\01.Basic\005.Roles_Permissions\008_InstallationUser.UserConfigurationPermissionsMaintenance
+SSCO Config\Merge\01.Basic\005.Roles_Permissions\016_Executive User.UserConfigurationPermissionsMaintenance
+SSCO Config\Merge\01.Basic\006.LocationConsumableGroups\010_Taxes_Groups.LocationConsumableGroupMaintenance
+SSCO Config\Merge\01.Basic\006.LocationConsumableGroups\011_CDA_Items.LocationConsumableGroupMaintenance
+SSCO Config\Merge\01.Basic\006.LocationConsumableGroups\01_ExternalCallGroup.LocationConsumableGroupMaintenance
+SSCO Config\Merge\01.Basic\006.LocationConsumableGroups\0_2009.LocationConsumableGroupMaintenance
+SSCO Config\Merge\01.Basic\006.LocationConsumableGroups\0_2051_1.LocationConsumableGroupMaintenance
+SSCO Config\Merge\01.Basic\006.LocationConsumableGroups\0_2051_10.LocationConsumableGroupMaintenance
+SSCO Config\Merge\01.Basic\006.LocationConsumableGroups\0_2051_11.LocationConsumableGroupMaintenance
+SSCO Config\Merge\01.Basic\006.LocationConsumableGroups\0_2051_2.LocationConsumableGroupMaintenance
+SSCO Config\Merge\01.Basic\006.LocationConsumableGroups\0_2051_23.LocationConsumableGroupMaintenance
+SSCO Config\Merge\01.Basic\006.LocationConsumableGroups\0_2051_24.LocationConsumableGroupMaintenance
+SSCO Config\Merge\01.Basic\006.LocationConsumableGroups\0_2051_25.LocationConsumableGroupMaintenance
+SSCO Config\Merge\01.Basic\006.LocationConsumableGroups\0_2051_26.LocationConsumableGroupMaintenance
+SSCO Config\Merge\01.Basic\006.LocationConsumableGroups\0_2051_3.LocationConsumableGroupMaintenance
+SSCO Config\Merge\01.Basic\006.LocationConsumableGroups\0_2051_4.LocationConsumableGroupMaintenance
+SSCO Config\Merge\01.Basic\006.LocationConsumableGroups\0_2051_5.LocationConsumableGroupMaintenance
+SSCO Config\Merge\01.Basic\006.LocationConsumableGroups\0_2051_50.LocationConsumableGroupMaintenance
+SSCO Config\Merge\01.Basic\006.LocationConsumableGroups\0_2051_51.LocationConsumableGroupMaintenance
+SSCO Config\Merge\01.Basic\006.LocationConsumableGroups\0_2051_54.LocationConsumableGroupMaintenance
+SSCO Config\Merge\01.Basic\006.LocationConsumableGroups\0_2051_55.LocationConsumableGroupMaintenance
+SSCO Config\Merge\01.Basic\006.LocationConsumableGroups\0_2051_57.LocationConsumableGroupMaintenance
+SSCO Config\Merge\01.Basic\006.LocationConsumableGroups\0_2051_6.LocationConsumableGroupMaintenance
+SSCO Config\Merge\01.Basic\006.LocationConsumableGroups\0_2051_8.LocationConsumableGroupMaintenance
+SSCO Config\Merge\01.Basic\006.LocationConsumableGroups\0_TaxE.LocationConsumableGroupMaintenance
+SSCO Config\Merge\01.Basic\006.LocationConsumableGroups\7_TaxG.LocationConsumableGroupMaintenance
+SSCO Config\Merge\01.Basic\006.LocationConsumableGroups\7_TaxS.LocationConsumableGroupMaintenance
+SSCO Config\Merge\01.Basic\007.AccountProfileMaintenance\001_Cashier.AccountProfileMaintenance
+SSCO Config\Merge\01.Basic\007.AccountProfileMaintenance\002_Till.AccountProfileMaintenance
+SSCO Config\Merge\01.Basic\007.AccountProfileMaintenance\003_Bank.AccountProfileMaintenance
+SSCO Config\Merge\01.Basic\007.AccountProfileMaintenance\004_AutoReconcile.AccountProfileMaintenance
+SSCO Config\Merge\01.Basic\007.AccountProfileMaintenance\005_CashOfficeSafe.AccountProfileMaintenance
+SSCO Config\Merge\01.Basic\007.AccountProfileMaintenance\006_IncomeAndExpense.AccountProfileMaintenance
+SSCO Config\Merge\01.Basic\007.AccountProfileMaintenance\010_SCO_Default_Cashier.AccountProfileMaintenance
+SSCO Config\Merge\01.Basic\008.DataPattern\000_IsDigit.DataPatternMetadataMaintenance
+SSCO Config\Merge\01.Basic\008.DataPattern\001.iTunes.DataPatternAdd
+SSCO Config\Merge\01.Basic\008.DataPattern\002_Wine_Card.DataPatternAdd
+SSCO Config\Merge\01.Basic\008.DataPattern\003_Future Wine Card.DataPatternAdd
+SSCO Config\Merge\01.Basic\008.DataPattern\004_SmartVoucher.DataPatternAdd
+SSCO Config\Merge\01.Basic\008.DataPattern\005_CouponAtTill.DataPatternAdd
+SSCO Config\Merge\01.Basic\008.DataPattern\006_Transaction_Barcode.DataPatternAdd
+SSCO Config\Merge\01.Basic\008.DataPattern\007_Weight and Price Embedded Item.DataPatternAdd
+SSCO Config\Merge\01.Basic\008.DataPattern\008_DetailedOrderCode.DataPatternAdd
+SSCO Config\Merge\01.Basic\008.DataPattern\009_PharmaOrderCode.DataPatternAdd
+SSCO Config\Merge\01.Basic\008.DataPattern\010_DeliQBOrderCode.DataPatternAdd
+SSCO Config\Merge\01.Basic\008.DataPattern\011_ECoupon.DataPatternAdd
+SSCO Config\Merge\01.Basic\008.DataPattern\012_AmountEmbedded.DataPatternAdd
+SSCO Config\Merge\01.Basic\008.DataPattern\013_Cashier_barcode.DataPatternAdd
+SSCO Config\Merge\01.Basic\008.DataPattern\Each22Series.DataPatternAdd
+SSCO Config\Merge\01.Basic\008.DataPattern\Ecoupon.DataPatternAdd
+SSCO Config\Merge\01.Basic\008.DataPattern\Kgs22Series.DataPatternAdd
+SSCO Config\Merge\01.Basic\008.DataPattern\SupplierBarcode.DataPatternAdd
+SSCO Config\Merge\01.Basic\010.AlertSeverityMaintenance\004._High.AlertSeverityMaintenance
+SSCO Config\Merge\01.Basic\010.AlertSeverityMaintenance\005._Medium.AlertSeverityMaintenance
+SSCO Config\Merge\01.Basic\010.AlertSeverityMaintenance\006._Low.AlertSeverityMaintenance
+SSCO Config\Merge\01.Basic\010.Tenders\001.Cash.TenderMaintenance
+SSCO Config\Merge\01.Basic\010.Tenders\002.CHEQUE.TenderMaintenance
+SSCO Config\Merge\01.Basic\010.Tenders\003.4DCash.TenderMaintenance
+SSCO Config\Merge\01.Basic\010.Tenders\004.VISA.TenderMaintenance
+SSCO Config\Merge\01.Basic\010.Tenders\005.MASTER.TenderMaintenance
+SSCO Config\Merge\01.Basic\010.Tenders\006.AMEX.TenderMaintenance
+SSCO Config\Merge\01.Basic\010.Tenders\007.DINERS.TenderMaintenance
+SSCO Config\Merge\01.Basic\010.Tenders\008.IPP.TenderMaintenance
+SSCO Config\Merge\01.Basic\010.Tenders\009.JCB.TenderMaintenance
+SSCO Config\Merge\01.Basic\010.Tenders\010.NETS.TenderMaintenance
+SSCO Config\Merge\01.Basic\010.Tenders\011.CASHCARD.TenderMaintenance
+SSCO Config\Merge\01.Basic\010.Tenders\012.EZLINK.TenderMaintenance
+SSCO Config\Merge\01.Basic\010.Tenders\013.Reserved.TenderMaintenance
+SSCO Config\Merge\01.Basic\010.Tenders\014.FAIRPRICEVOUCHER.TenderMaintenance
+SSCO Config\Merge\01.Basic\010.Tenders\015.SUPPLIER COUPON.TenderMaintenance
+SSCO Config\Merge\01.Basic\010.Tenders\016.SAFRAVOUCHER.TenderMaintenance
+SSCO Config\Merge\01.Basic\010.Tenders\017.BARCODED SUP COUPON.TenderMaintenance
+SSCO Config\Merge\01.Basic\010.Tenders\018.U-STRETCH COUPON.TenderMaintenance
+SSCO Config\Merge\01.Basic\010.Tenders\019.HOUSEBRAND DISCOUNT.TenderMaintenance
+SSCO Config\Merge\01.Basic\010.Tenders\020.FP PROMOTION VOUCHER.TenderMaintenance
+SSCO Config\Merge\01.Basic\010.Tenders\021.CAR PARK REDEMPTION.TenderMaintenance
+SSCO Config\Merge\01.Basic\010.Tenders\022.BYOB DISCOUNT.TenderMaintenance
+SSCO Config\Merge\01.Basic\010.Tenders\023.LINKPOINT REDEMPTION.TenderMaintenance
+SSCO Config\Merge\01.Basic\010.Tenders\024.FLASHPAY.TenderMaintenance
+SSCO Config\Merge\01.Basic\010.Tenders\025.CREDIT SALES.TenderMaintenance
+SSCO Config\Merge\01.Basic\010.Tenders\026.RONDING.TenderMaintenance
+SSCO Config\Merge\01.Basic\010.Tenders\027.OCBC.TenderMaintenance
+SSCO Config\Merge\01.Basic\010.Tenders\028.OCBCOffline.TenderMaintenance
+SSCO Config\Merge\01.Basic\010.Tenders\029.US Dollars.TenderMaintenance
+SSCO Config\Merge\01.Basic\010.Tenders\030.NTUC EXCHANGE RATE.TenderMaintenance
+SSCO Config\Merge\01.Basic\010.Tenders\031.CASHCARD_OFFLINE.TenderMaintenance
+SSCO Config\Merge\01.Basic\010.Tenders\032.NETS_OFFLINE.TenderMaintenance
+SSCO Config\Merge\01.Basic\010.Tenders\033.FLASHPAY OFFLINE.TenderMaintenance
+SSCO Config\Merge\01.Basic\010.Tenders\034.SUNDRIES.TenderMaintenance
+SSCO Config\Merge\01.Basic\010.Tenders\035.UNIONPAY.TenderMaintenance
+SSCO Config\Merge\01.Basic\010.Tenders\036.GIFT CARD.TenderMaintenance
+SSCO Config\Merge\01.Basic\010.Tenders\037.CDA.TenderMaintenance
+SSCO Config\Merge\01.Basic\010.Tenders\038.CDA_OFFLINE.TenderMaintenance
+SSCO Config\Merge\01.Basic\010.Tenders\039_Ecoupon.TenderMaintenance
+SSCO Config\Merge\01.Basic\010.Tenders\040.STAFF CO-PAYMENT.TenderMaintenance
+SSCO Config\Merge\01.Basic\010.Tenders\041.FFS.TenderMaintenance
+SSCO Config\Merge\01.Basic\010.Tenders\044.SUBSIDY.TenderMaintenance
+SSCO Config\Merge\01.Basic\010.Tenders\045.CASH OFFLINE.TenderMaintenance
+SSCO Config\Merge\01.Basic\010.Tenders\046.GRABMART.TenderMaintenance
+SSCO Config\Merge\01.Basic\010.Tenders\047.HPB E-VOUCHER.TenderMaintenance
+SSCO Config\Merge\01.Basic\010.Tenders\048.GC OFFLINE.TenderMaintenance
+SSCO Config\Merge\01.Basic\010.Tenders\049.DASH.TenderMaintenance
+SSCO Config\Merge\01.Basic\010.Tenders\050.DASH_OFFLINE.TenderMaintenance
+SSCO Config\Merge\01.Basic\010.Tenders\051.EZLINK OFFLINE.TenderMaintenance
+SSCO Config\Merge\01.Basic\010.Tenders\052.GROCERYVOUCHER.TenderMaintenance
+SSCO Config\Merge\01.Basic\010.Tenders\053.FOOD PANDA.TenderMaintenance
+SSCO Config\Merge\01.Basic\010.Tenders\054.ONLINE DELI.TenderMaintenance
+SSCO Config\Merge\01.Basic\010.Tenders\055.FAIRPRICE APP.TenderMaintenance
+SSCO Config\Merge\01.Basic\010.Tenders\056.FAIRPRICE APP OFFLINE.TenderMaintenance
+SSCO Config\Merge\01.Basic\010.Tenders\057.Ubsc.TenderMaintenance
+SSCO Config\Merge\01.Basic\010.Tenders\058.PAYNOW.TenderMaintenance
+SSCO Config\Merge\01.Basic\010.Tenders\059.PAYNOW OFFLINE.TenderMaintenance
+SSCO Config\Merge\01.Basic\010.Tenders\060.PARTNER VOUCHER.TenderMaintenance
+SSCO Config\Merge\01.Basic\010.Tenders\061.PV CAPITAVOUCHER.TenderMaintenance
+SSCO Config\Merge\01.Basic\010.Tenders\062.PV Ecapitavoucher.TenderMaintenance
+SSCO Config\Merge\01.Basic\010.Tenders\063.PV OCBC Evoucher.TenderMaintenance
+SSCO Config\Merge\01.Basic\010.Tenders\064.PV UG Evoucher.TenderMaintenance
+SSCO Config\Merge\01.Basic\010.Tenders\065.PV FP Evoucher.TenderMaintenance
+SSCO Config\Merge\01.Basic\010.Tenders\066.PV NTUC UCARE.TenderMaintenance
+SSCO Config\Merge\01.Basic\010.Tenders\067.PV NEA EVOUCHER.TenderMaintenance
+SSCO Config\Merge\01.Basic\010.Tenders\069.PV NEA3 EVOUHCER.TenderMaintenance
+SSCO Config\Merge\01.Basic\010.Tenders\080.PV CDC Voucher.TenderMaintenance
+SSCO Config\Merge\01.Basic\010.Tenders\091.WECHAT.TenderMaintenance
+SSCO Config\Merge\01.Basic\010.Tenders\092.WECHAT OFFLINE.TenderMaintenance
+SSCO Config\Merge\01.Basic\010.Tenders\126.PointRounding.TenderRoundingRuleMaintenance
+SSCO Config\Merge\01.Basic\010.Tenders\201.CashUpdate.TenderMaintenance
+SSCO Config\Merge\01.Basic\015.ReasonCodes\013000_SettleReasonGroup.ReasonCodeMaintenance
+SSCO Config\Merge\01.Basic\015.ReasonCodes\1.ReturnItems.ReasonCodeMaintenance
+SSCO Config\Merge\01.Basic\015.ReasonCodes\10000_PriceOverrideGroup.ReasonCodeMaintenance
+SSCO Config\Merge\01.Basic\015.ReasonCodes\10014_.ReasonCodeMaintenance
+SSCO Config\Merge\01.Basic\015.ReasonCodes\10015_.ReasonCodeMaintenance
+SSCO Config\Merge\01.Basic\015.ReasonCodes\10016_.ReasonCodeMaintenance
+SSCO Config\Merge\01.Basic\015.ReasonCodes\10017_.ReasonCodeMaintenance
+SSCO Config\Merge\01.Basic\015.ReasonCodes\10018_.ReasonCodeMaintenance
+SSCO Config\Merge\01.Basic\015.ReasonCodes\11.ReasonCodeMaintenance
+SSCO Config\Merge\01.Basic\015.ReasonCodes\11000_ReturnItemGroup.ReasonCodeMaintenance
+SSCO Config\Merge\01.Basic\015.ReasonCodes\11008_.ReasonCodeMaintenance
+SSCO Config\Merge\01.Basic\015.ReasonCodes\11009_.ReasonCodeMaintenance
+SSCO Config\Merge\01.Basic\015.ReasonCodes\11010_.ReasonCodeMaintenance
+SSCO Config\Merge\01.Basic\015.ReasonCodes\11011_.ReasonCodeMaintenance
+SSCO Config\Merge\01.Basic\015.ReasonCodes\11012_.ReasonCodeMaintenance
+SSCO Config\Merge\01.Basic\015.ReasonCodes\12.ReasonCodeMaintenance
+SSCO Config\Merge\01.Basic\015.ReasonCodes\12000_ReturnTransactionGroup.ReasonCodeMaintenance
+SSCO Config\Merge\01.Basic\015.ReasonCodes\12001_.ReasonCodeMaintenance
+SSCO Config\Merge\01.Basic\015.ReasonCodes\12002_.ReasonCodeMaintenance
+SSCO Config\Merge\01.Basic\015.ReasonCodes\12003_.ReasonCodeMaintenance
+SSCO Config\Merge\01.Basic\015.ReasonCodes\12004_.ReasonCodeMaintenance
+SSCO Config\Merge\01.Basic\015.ReasonCodes\13.ReasonCodeMaintenance
+SSCO Config\Merge\01.Basic\015.ReasonCodes\13000_.ReasonCodeMaintenance
+SSCO Config\Merge\01.Basic\015.ReasonCodes\13001_.ReasonCodeMaintenance
+SSCO Config\Merge\01.Basic\015.ReasonCodes\13002_.ReasonCodeMaintenance
+SSCO Config\Merge\01.Basic\015.ReasonCodes\14.ReasonCodeMaintenance
+SSCO Config\Merge\01.Basic\015.ReasonCodes\14000_SettleReasonGroup.ReasonCodeMaintenance
+SSCO Config\Merge\01.Basic\015.ReasonCodes\14018_.ReasonCodeMaintenance
+SSCO Config\Merge\01.Basic\015.ReasonCodes\15.ReasonCodeMaintenance
+SSCO Config\Merge\01.Basic\015.ReasonCodes\15000_VariableAgeRefusalsGroup.ReasonCodeMaintenance
+SSCO Config\Merge\01.Basic\015.ReasonCodes\15078_.ReasonCodeMaintenance
+SSCO Config\Merge\01.Basic\015.ReasonCodes\15079_.ReasonCodeMaintenance
+SSCO Config\Merge\01.Basic\015.ReasonCodes\15080_.ReasonCodeMaintenance
+SSCO Config\Merge\01.Basic\028.EndOfDay\000_0_EOD.EndOfDayMaintenance
+SSCO Config\Merge\01.Basic\028.EndOfDay\001_0_BalancePeriodScheduling.BalancePeriodSchedulingConfigurationSaveOrUpdate
+SSCO Config\Merge\01.Basic\030.SystemParameters\DefaultMerchandiseCategoryId.SystemParametersAdd
+SSCO Config\Merge\01.Basic\030.SystemParameters\DetailedOrderCodeConfigurationMaintenance.DetailedOrderCodeConfigurationMaintenance
+SSCO Config\Merge\01.Basic\030.SystemParameters\LoyaltyType.SystemParametersAdd
+SSCO Config\Merge\01.Basic\030.SystemParameters\OpenDrawer.OpenDrawerConfigurationMaintenance
+SSCO Config\Merge\01.Basic\030.SystemParameters\ProductEligibilityEnabled.SystemParametersAdd
+SSCO Config\Merge\01.Basic\031.ConfigurationParameters\BinRangeConfiguration.BusinessConfigurationMaintenance
+SSCO Config\Merge\01.Basic\031.ConfigurationParameters\CustomerAccountMaintenance.CustomerAccountMaintenance
+SSCO Config\Merge\01.Basic\031.ConfigurationParameters\CustomerAgreementMaintenance.CustomerAgreementMaintenance
+SSCO Config\Merge\01.Basic\031.ConfigurationParameters\EpsStateMapping.EPSStateMappingConfigurationMaintenance
+SSCO Config\Merge\01.Basic\031.ConfigurationParameters\ExternalEps.ExternalEpsConfigurationMaintenance
+SSCO Config\Merge\01.Basic\031.ConfigurationParameters\ExternalLoyalty.ExternalLoyaltyAPIConfigurationMaintenance
+SSCO Config\Merge\01.Basic\031.ConfigurationParameters\ExternalSlipApiConfigurationMaintenance.ExternalSlipApiConfigurationMaintenance
+SSCO Config\Merge\01.Basic\031.ConfigurationParameters\MultiCustomerSave.MultiCustomerBehaviorMaintenance
+SSCO Config\Merge\01.Basic\031.ConfigurationParameters\NTUCLoyaltyAdapterConfiguration.BusinessConfigurationMaintenance
+SSCO Config\Merge\01.Basic\031.ConfigurationParameters\OmniwareConfiguration.BusinessConfigurationMaintenance
+SSCO Config\Merge\01.Basic\031.ConfigurationParameters\OneLoyaltyConfiguration.BusinessConfigurationMaintenance
+SSCO Config\Merge\01.Basic\031.ConfigurationParameters\PayByPointTenderAuth_ExternalLoyaltyAPIConfigurationMaintenance.ExternalLoyaltyAPIConfigurationMaintenance
+SSCO Config\Merge\01.Basic\031.ConfigurationParameters\PosParametersConfigurationMaintenance.PosParametersConfigurationMaintenance
+SSCO Config\Merge\01.Basic\031.ConfigurationParameters\ProductEligibilityAPIConfiguration.ProductEligibilityAPIConfigurationMaintenance
+SSCO Config\Merge\01.Basic\031.ConfigurationParameters\ProvidersConfiguration.businessconfigurationmaintenance
+SSCO Config\Merge\01.Basic\031.ConfigurationParameters\RationingGateWayConfiguration.BusinessConfigurationMaintenance
+SSCO Config\Merge\01.Basic\031.ConfigurationParameters\RationingGateWayNRICConfiguration.BusinessConfigurationMaintenance
+SSCO Config\Merge\01.Basic\031.ConfigurationParameters\RationingGateWayWeightConfiguration.BusinessConfigurationMaintenance
+SSCO Config\Merge\01.Basic\031.ConfigurationParameters\ReceiptConfiguration.BusinessConfigurationMaintenance
+SSCO Config\Merge\01.Basic\031.ConfigurationParameters\StoreDataConfiguration.BusinessConfigurationMaintenance
+SSCO Config\Merge\01.Basic\037.Denominations\001_SGD.DenominationMaintenance
+SSCO Config\Merge\01.Basic\039_ServerGroup\001_HQ.ServerGroupMaintenance
+SSCO Config\Merge\01.Basic\039_ServerGroup\002_Store.ServerGroupMaintenance
+SSCO Config\Merge\01.Basic\039_ServerGroup\003_TouchPoint.ServerGroupMaintenance
+SSCO Config\Merge\01.Basic\039_ServerGroup\004_MobileFarm.ServerGroupMaintenance
+SSCO Config\Merge\01.Basic\040.RetentionPolicy\106.ClientSessions_HQ.RetentionPolicyMaintenance
+SSCO Config\Merge\01.Basic\040.RetentionPolicy\110.Notifications_HQ.RetentionPolicyMaintenance
+SSCO Config\Merge\01.Basic\040.RetentionPolicy\206.ClientSessions_Store.RetentionPolicyMaintenance
+SSCO Config\Merge\01.Basic\040.RetentionPolicy\207.CTLogs_Store.RetentionPolicyMaintenance
+SSCO Config\Merge\01.Basic\040.RetentionPolicy\208.DTLogs_Store.RetentionPolicyMaintenance
+SSCO Config\Merge\01.Basic\040.RetentionPolicy\209.FTLogs_Store.RetentionPolicyMaintenance
+SSCO Config\Merge\01.Basic\040.RetentionPolicy\210.Notifications_Store.RetentionPolicyMaintenance
+SSCO Config\Merge\01.Basic\040.RetentionPolicy\211.Prices_Store.RetentionPolicyMaintenance
+SSCO Config\Merge\01.Basic\040.RetentionPolicy\212.TLogs_Store.RetentionPolicyMaintenance
+SSCO Config\Merge\01.Basic\040.RetentionPolicy\213.Unpaid_Store.RetentionPolicyMaintenance
+SSCO Config\Merge\01.Basic\040.RetentionPolicy\214.Suspend_Store.RetentionPolicyMaintenance
+SSCO Config\Merge\01.Basic\040.RetentionPolicy\306.ClientSessions_TouchPoint.RetentionPolicyMaintenance
+SSCO Config\Merge\01.Basic\040.RetentionPolicy\307.CTLogs_TouchPoint.RetentionPolicyMaintenance
+SSCO Config\Merge\01.Basic\040.RetentionPolicy\308.DTLogs_TouchPoint.RetentionPolicyMaintenance
+SSCO Config\Merge\01.Basic\040.RetentionPolicy\309.FTLogs_TouchPoint.RetentionPolicyMaintenance
+SSCO Config\Merge\01.Basic\040.RetentionPolicy\310.Notifications_TouchPoint.RetentionPolicyMaintenance
+SSCO Config\Merge\01.Basic\040.RetentionPolicy\311.Prices_TouchPoint.RetentionPolicyMaintenance
+SSCO Config\Merge\01.Basic\040.RetentionPolicy\312.TLogs_TouchPoint.RetentionPolicyMaintenance
+SSCO Config\Merge\01.Basic\040.RetentionPolicy\313.Unpaid_TouchPoint.RetentionPolicyMaintenance
+SSCO Config\Merge\01.Basic\040.RetentionPolicy\314.Suspend_TouchPoint.RetentionPolicyMaintenance
+SSCO Config\Merge\01.Basic\055.BusinessComponents\0001_POS.AutoVoidAbandonedTransactionConfigurationMaintenance
+SSCO Config\Merge\01.Basic\20.ReturnPolicy\All.ReturnPolicySave
+SSCO Config\Merge\01.Basic\20.ReturnPolicy\NRR.ReturnPolicySave
+SSCO Config\Merge\01.Basic\20.ReturnPolicy\TBR.ReturnPolicySave
+SSCO Config\Merge\01.Basic\221.ReceiptConfiguration\003.ReceiptConfigurationParametersMaintenance.ReceiptConfigurationParametersMaintenance
+SSCO Config\Merge\01.Basic\221.ReceiptConfiguration\004.EndorsementMaintenance.EndorsementMaintenance
+SSCO Config\Merge\01.Basic\221.ReceiptConfiguration\008.ReceiptPrintingConfigurationForSelfScanner.ReceiptConfigurationParametersMaintenance
+SSCO Config\Merge\01.Basic\221.ReceiptConfiguration\XZReportConfiguration.XZReportConfiguration
+SSCO Config\Merge\01.Basic\327.FormsConfiguration\ConfigurableForm.DynamicFormsConfigurationMaintenance
+SSCO Config\Merge\01.Basic\327.FormsConfiguration\CustomerDataForm.DynamicFormsConfigurationMaintenance
+SSCO Config\Merge\01.Basic\327.FormsConfiguration\CustomerDataFormEmail.DynamicFormsConfigurationMaintenance
+SSCO Config\Merge\01.Basic\327.FormsConfiguration\CustomerDataFormEmailAndPhone.DynamicFormsConfigurationMaintenance
+SSCO Config\Merge\01.Basic\327.FormsConfiguration\CustomerDataFormPhone.DynamicFormsConfigurationMaintenance
+SSCO Config\Merge\01.Basic\327.FormsConfiguration\EndConsumerDataForm.DynamicFormsConfigurationMaintenance
+SSCO Config\Merge\01.Basic\327.FormsConfiguration\TableNumberForm.DynamicFormsConfigurationMaintenance
+SSCO Config\Merge\01.Basic\327.FormsConfiguration\TaxPayerDataForm.DynamicFormsConfigurationMaintenance
+SSCO Config\Merge\03.Customer_Env\001.StoreHierarchy\313_StoreWithFiscalID.BusinessUnitMaintenance
+SSCO Config\Merge\03.Customer_Env\001.StoreHierarchy\348_StoreWithFiscalID.BusinessUnitMaintenance
+SSCO Config\Merge\03.Customer_Env\001.StoreHierarchy\420_StoreWithFiscalID.BusinessUnitMaintenance
+SSCO Config\Merge\03.Customer_Env\001.StoreHierarchy\447_StoreWithFiscalID.BusinessUnitMaintenance
+SSCO Config\Merge\03.Customer_Env\1042_Simulators-Device\0003_Printer_Simulator.DeviceConfigurationAdd
+SSCO Config\Merge\03.Customer_Env\1042_Simulators-Device\0004_Drawer.DeviceConfigurationAdd
+SSCO Config\Merge\03.Customer_Env\1042_Simulators-Device\0010_Add Cash Drawer Emulators.DeviceConfigurationAdd
+SSCO Config\Merge\03.Customer_Env\1042_Simulators-Device\0010_Add Scanner Emulators.DeviceConfigurationAdd
+SSCO Config\Merge\03.Customer_Env\1120_TouchPoints\004_TP025447.TouchPointAdd
+SSCO Config\Merge\03.Customer_Env\1120_TouchPoints\005_TP100447.TouchPointAdd
+SSCO Config\Merge\03.Customer_Env\1120_TouchPoints\006_TP101447.TouchPointAdd
+SSCO Config\Merge\03.Customer_Env\1200_ItemHierarchy\11_ESSENTIALS.ItemHierarchyMaintenance
+SSCO Config\Merge\03.Customer_Env\1200_ItemHierarchy\12_GROCERIES.ItemHierarchyMaintenance
+SSCO Config\Merge\03.Customer_Env\1200_ItemHierarchy\13_BEVERAGE.ItemHierarchyMaintenance
+SSCO Config\Merge\03.Customer_Env\1200_ItemHierarchy\14_TIDBITS.ItemHierarchyMaintenance
+SSCO Config\Merge\03.Customer_Env\1200_ItemHierarchy\21_FROZEN.ItemHierarchyMaintenance
+SSCO Config\Merge\03.Customer_Env\1200_ItemHierarchy\22_FISH.ItemHierarchyMaintenance
+SSCO Config\Merge\03.Customer_Env\1200_ItemHierarchy\31_TOILTRIES.ItemHierarchyMaintenance
+SSCO Config\Merge\03.Customer_Env\1200_ItemHierarchy\32_HOUSEHOLD.ItemHierarchyMaintenance
+SSCO Config\Merge\03.Customer_Env\1200_ItemHierarchy\33_HEALTH.ItemHierarchyMaintenance
+SSCO Config\Merge\03.Customer_Env\1200_ItemHierarchy\41_BAZAAR.ItemHierarchyMaintenance
+SSCO Config\Merge\03.Customer_Env\1200_ItemHierarchy\42_ELECTRONIC.ItemHierarchyMaintenance
+SSCO Config\Merge\03.Customer_Env\1200_ItemHierarchy\43_TEXTILE.ItemHierarchyMaintenance
+SSCO Config\Merge\03.Customer_Env\1200_ItemHierarchy\51_FOOD.ItemHierarchyMaintenance
+SSCO Config\Merge\03.Customer_Env\1200_ItemHierarchy\71_NONMERCHANDISE.ItemHierarchyMaintenance
+SSCO Config\Merge\03.Customer_Env\1200_ItemHierarchy\90_CONCESSIONAIRES.ItemHierarchyMaintenance
+SSCO Config\Merge\03.Customer_Env\1300_Department\001_Departments.DepartmentSaveOrUpdate
+SSCO Config\Merge\03.Customer_Env\1320_Users\001_Administrator.IdmAddUser
+SSCO Config\Merge\03.Customer_Env\1320_Users\002_Cashier.IdmAddUser
+SSCO Config\Merge\03.Customer_Env\1320_Users\003_Chief_Cashier.IdmAddUser
+SSCO Config\Merge\03.Customer_Env\1320_Users\004_Team_Leader.IdmAddUser
+SSCO Config\Merge\03.Customer_Env\1320_Users\005_Store_Manager.IdmAddUser
+SSCO Config\Merge\03.Customer_Env\1320_Users\006_Store_Manager_FO_Only.IdmAddUser
+SSCO Config\Merge\03.Customer_Env\1320_Users\007_Corporate_IT_FO_Only.IdmAddUser
+SSCO Config\Merge\03.Customer_Env\1320_Users\008_Installation User.IdmAddUser
+SSCO Config\Merge\03.Customer_Env\1320_Users\009_Service_Counter.IdmAddUser
+SSCO Config\Merge\03.Customer_Env\1320_Users\010_Appliance_Counter.IdmAddUser
+SSCO Config\Merge\03.Customer_Env\1320_Users\014_BGS-FO_Only.IdmAddUser
+SSCO Config\Merge\03.Customer_Env\1320_Users\015_SCO.IdmAddUser
+SSCO Config\Merge\03.Customer_Env\1320_Users\016_Executive_User.IdmAddUser
+SSCO Config\Merge\03.Customer_Env\1320_Users\017_Audit_Finance_FO_Only.IdmAddUser
+SSCO Config\Merge\03.Customer_Env\1320_Users\077_LoyaltyServiceRole.IdmAddUser
+SSCO Config\Merge\03.Customer_Env\1321_Drawer Accountability\154.FundTransferOfficeHeader_CashOffice.LayoutTemplateMaintenance
+SSCO Config\Merge\03.Customer_Env\1321_Drawer Accountability\159.DeclarationOfficeHeader_CashOffice.LayoutTemplateMaintenance
+SSCO Config\Merge\03.Customer_Env\1321_Drawer Accountability\DataProtectionConfigurationMaintenance.DataProtectionConfigurationMaintenance
+SSCO Config\Merge\03.Customer_Env\1321_Drawer Accountability\DrawerAccountability.SystemParametersAdd
+SSCO Config\Merge\03.Customer_Env\1321_Drawer Accountability\OfficeBusinessConfigurationMaintenance.OfficeBusinessConfigurationMaintenance
+SSCO Config\Merge\04_PostData\0610_OnlineGroups\002_iTunes GC .LocationConsumableGroupMaintenance
+SSCO Config\Merge\04_PostData\0610_OnlineGroups\008_ETG.LocationConsumableGroupMaintenance
+SSCO Config\Merge\04_PostData\0610_OnlineGroups\009_ETT.LocationConsumableGroupMaintenance
+SSCO Config\Merge\04_PostData\2683_BusinessRule\001_SupervisorApproval_VoidTransaction.BusinessRuleMaintenance
+SSCO Config\Merge\04_PostData\2683_BusinessRule\002_Void_Items.businessrulemaintenance
+SSCO Config\Merge\04_PostData\2683_BusinessRule\003_XreportApproval.BusinessRuleMaintenance
+SSCO Config\Merge\04_PostData\2683_BusinessRule\004_M150.BusinessRuleMaintenance
+SSCO Config\Merge\04_PostData\2683_BusinessRule\005_Thai_Beverage_Notice.BusinessRuleMaintenance
+SSCO Config\Merge\04_PostData\2683_BusinessRule\006_Club_Pack_Coke.BusinessRuleMaintenance
+SSCO Config\Merge\04_PostData\2683_BusinessRule\007_Product_Withdraw.BusinessRuleMaintenance
+SSCO Config\Merge\04_PostData\2683_BusinessRule\008_BP_warning_due_date.BusinessRuleMaintenance
+SSCO Config\Merge\04_PostData\2683_BusinessRule\009_BP_Limit_490000.BusinessRuleMaintenance
+SSCO Config\Merge\04_PostData\2683_BusinessRule\010_BP_Fix_Amount.BusinessRuleMaintenance
+SSCO Config\Merge\04_PostData\2683_BusinessRule\011_Non_license_tobacco.BusinessRuleMaintenance
+SSCO Config\Merge\04_PostData\2683_BusinessRule\012_Block_Items_Clubpack.BusinessRuleMaintenance
+SSCO Config\Merge\04_PostData\2683_BusinessRule\013_AirPay_Wallet.BusinessRuleMaintenance
+SSCO Config\Merge\04_PostData\2683_BusinessRule\014_Block_items_CP.BusinessRuleMaintenance
+SSCO Config\Merge\04_PostData\2683_BusinessRule\015_BP_EPW.BusinessRuleMaintenance
+SSCO Config\Merge\04_PostData\2683_BusinessRule\016_SSO.BusinessRuleMaintenance
+SSCO Config\Merge\04_PostData\2683_BusinessRule\017_Batch.behavior.BusinessRuleMaintenance
+SSCO Config\Merge\04_PostData\2683_BusinessRule\018_Return_item_Supervisor_Approval.BusinessRuleMaintenance
+SSCO Config\Merge\04_PostData\2683_BusinessRule\019_GC Quantity Restriction.BusinessRuleMaintenance
+SSCO Config\Merge\04_PostData\2683_BusinessRule\020_GC_Restriction.BusinessRuleMaintenance
+SSCO Config\Merge\04_PostData\2683_BusinessRule\022_iTunesSaleRestrictiononSCO.BusinessRuleMaintenance
+SSCO Config\Merge\04_PostData\6000_ConsumableGroups\01.FP_Gift_Card_ConsumbleGropups.LocationConsumableGroupMaintenance
+SSCO Config\Merge\06_Test_Data\0.1.Security_scale_maintenance\001_SecurityScaleConfigurationMaintenance.SecurityScaleConfigurationMaintenance
+SSCO Config\Merge\06_Test_Data\0.1.Security_scale_maintenance\001_WeightCheck.ItemHierarchyMaintenance
+SSCO Config\Merge\06_Test_Data\0.1.Security_scale_maintenance\002_WeightCheckGroupCreate.LocationConsumableGroupMaintenance
+SSCO Config\Merge\06_Test_Data\0.1.Security_scale_maintenance\003_WeightCheckProduct.ProductMaintenance
+SSCO Config\Merge\06_Test_Data\0.1.Security_scale_maintenance\004_WeightCheckProductPrice.PriceMaintenance
+SSCO Config\Merge\06_Test_Data\007.AccountProfileMaintenance\011_AccountSaveOrUpdateRequest.AccountSaveOrUpdate
+SSCO Config\Merge\06_Test_Data\007.AccountProfileMaintenance\012_AccountSaveOrUpdateRequest.AccountSaveOrUpdate
+SSCO Config\Merge\06_Test_Data\011.SCOIntervention\005_ScoInterventionConfigurationMaintenanceRequest.ScoInterventionConfigurationMaintenance
+SSCO Config\Merge\06_Test_Data\012.Govtech Products\000_Brands.ItemHierarchyMaintenance
+SSCO Config\Merge\06_Test_Data\012.Govtech Products\001_GovTech.ItemHierarchyMaintenance
+SSCO Config\Merge\06_Test_Data\012.Govtech Products\002_GovTechGroupCreate.LocationConsumableGroupMaintenance
+SSCO Config\Merge\06_Test_Data\012.Govtech Products\003_GovTechProduct.ProductMaintenance
+SSCO Config\Merge\06_Test_Data\012.Govtech Products\004_GovTechProductPrice.PriceMaintenance
+SSCO Config\Merge\06_Test_Data\012.Govtech Products\005_ProductMaintenance.ProductMaintenance
+SSCO Config\Merge\06_Test_Data\017.BRM\018_ChiefCashierApproval_AccessTrainingMode.BusinessRuleMaintenance
+SSCO Config\Merge\06_Test_Data\017.BRM\447-TimeRestriction1.ConditionalRestrictionRuleMaintenance
+SSCO Config\Merge\06_Test_Data\017.BRM\447-TimeRestriction2.ConditionalRestrictionRuleMaintenance
+SSCO Config\Merge\06_Test_Data\017.BRM\447-TimeRestriction3.ConditionalRestrictionRuleMaintenance
+SSCO Config\Merge\06_Test_Data\017.BRM\447-TimeRestriction4.ConditionalRestrictionRuleMaintenance
+SSCO Config\Merge\06_Test_Data\017.BRM\Non447-TimeRestriction1.ConditionalRestrictionRuleMaintenance
+SSCO Config\Merge\06_Test_Data\017.BRM\Non447-TimeRestriction2.ConditionalRestrictionRuleMaintenance
+SSCO Config\Merge\06_Test_Data\05.LMSPromotionProducts\001_LMS.ItemHierarchyMaintenance
+SSCO Config\Merge\06_Test_Data\05.LMSPromotionProducts\002_LMSGroupCreate.LocationConsumableGroupMaintenance
+SSCO Config\Merge\06_Test_Data\05.LMSPromotionProducts\003_LMSProduct.ProductMaintenance
+SSCO Config\Merge\06_Test_Data\05.LMSPromotionProducts\004_LMSProductPrice.PriceMaintenance
+SSCO Config\Merge\06_Test_Data\2.Promotion\017_SimplePromotionNewPricePerItem.PromotionMaintenance
+SSCO Config\Merge\06_Test_Data\4.RestrictionMaintenance\001_122490.RestrictionMaintenance
+Config\01_Basic\350.OlaMessages\001.MessageAdd\LinkServer_MessageAdd\LinkServer1001.MessageAdd
+Config\01_Basic\350.OlaMessages\001.MessageAdd\LinkServer_MessageAdd\LinkServer1002.MessageAdd
+Config\01_Basic\350.OlaMessages\001.MessageAdd\LinkServer_MessageAdd\LinkServer1003.MessageAdd
+Config\01_Basic\350.OlaMessages\001.MessageAdd\LinkServer_MessageAdd\LinkServer1004.MessageAdd
+Config\01_Basic\350.OlaMessages\001.MessageAdd\LinkServer_MessageAdd\LinkServer1005.MessageAdd
+Config\01_Basic\350.OlaMessages\001.MessageAdd\LinkServer_MessageAdd\LinkServer1006.MessageAdd
+Config\01_Basic\350.OlaMessages\001.MessageAdd\LinkServer_MessageAdd\LinkServer1007.MessageAdd
+Config\01_Basic\350.OlaMessages\001.MessageAdd\LinkServer_MessageAdd\LinkServer1008.MessageAdd
+Config\01_Basic\350.OlaMessages\001.MessageAdd\LinkServer_MessageAdd\LinkServer1009.MessageAdd
+Config\01_Basic\350.OlaMessages\001.MessageAdd\LinkServer_MessageAdd\LinkServer1010.MessageAdd
+Config\01_Basic\350.OlaMessages\001.MessageAdd\LinkServer_MessageAdd\LinkServer1011.MessageAdd
+Config\01_Basic\350.OlaMessages\001.MessageAdd\LinkServer_MessageAdd\LinkServer1012.MessageAdd
+Config\01_Basic\350.OlaMessages\001.MessageAdd\LinkServer_MessageAdd\LinkServer1018.MessageAdd
+Config\01_Basic\350.OlaMessages\001.MessageAdd\LinkServer_MessageAdd\LinkServer1023.MessageAdd
+Config\01_Basic\350.OlaMessages\001.MessageAdd\LinkServer_MessageAdd\LinkServer1028.MessageAdd
+Config\01_Basic\350.OlaMessages\001.MessageAdd\LinkServer_MessageAdd\LinkServer103.MessageAdd
+Config\01_Basic\350.OlaMessages\001.MessageAdd\LinkServer_MessageAdd\LinkServer122.MessageAdd
+Config\01_Basic\350.OlaMessages\001.MessageAdd\LinkServer_MessageAdd\LinkServer141.MessageAdd
+Config\01_Basic\350.OlaMessages\001.MessageAdd\LinkServer_MessageAdd\LinkServer142.MessageAdd
+Config\01_Basic\350.OlaMessages\001.MessageAdd\LinkServer_MessageAdd\LinkServer147.MessageAdd
+Config\01_Basic\350.OlaMessages\001.MessageAdd\LinkServer_MessageAdd\LinkServer1999.MessageAdd
+Config\01_Basic\350.OlaMessages\001.MessageAdd\LinkServer_MessageAdd\LinkServerZZZZ.MessageAdd
+Config\01_Basic\350.OlaMessages\002.OLAMessageMaintenance\LinkServer_OLAMessageMaintenance\LinkServer1001.OLAMessageMaintenance
+Config\01_Basic\350.OlaMessages\002.OLAMessageMaintenance\LinkServer_OLAMessageMaintenance\LinkServer1002.OLAMessageMaintenance
+Config\01_Basic\350.OlaMessages\002.OLAMessageMaintenance\LinkServer_OLAMessageMaintenance\LinkServer1003.OLAMessageMaintenance
+Config\01_Basic\350.OlaMessages\002.OLAMessageMaintenance\LinkServer_OLAMessageMaintenance\LinkServer1004.OLAMessageMaintenance
+Config\01_Basic\350.OlaMessages\002.OLAMessageMaintenance\LinkServer_OLAMessageMaintenance\LinkServer1005.OLAMessageMaintenance
+Config\01_Basic\350.OlaMessages\002.OLAMessageMaintenance\LinkServer_OLAMessageMaintenance\LinkServer1006.OLAMessageMaintenance
+Config\01_Basic\350.OlaMessages\002.OLAMessageMaintenance\LinkServer_OLAMessageMaintenance\LinkServer1007.OLAMessageMaintenance
+Config\01_Basic\350.OlaMessages\002.OLAMessageMaintenance\LinkServer_OLAMessageMaintenance\LinkServer1008.OLAMessageMaintenance
+Config\01_Basic\350.OlaMessages\002.OLAMessageMaintenance\LinkServer_OLAMessageMaintenance\LinkServer1009.OLAMessageMaintenance
+Config\01_Basic\350.OlaMessages\002.OLAMessageMaintenance\LinkServer_OLAMessageMaintenance\LinkServer1010.OLAMessageMaintenance
+Config\01_Basic\350.OlaMessages\002.OLAMessageMaintenance\LinkServer_OLAMessageMaintenance\LinkServer1011.OLAMessageMaintenance
+Config\01_Basic\350.OlaMessages\002.OLAMessageMaintenance\LinkServer_OLAMessageMaintenance\LinkServer1012.OLAMessageMaintenance
+Config\01_Basic\350.OlaMessages\002.OLAMessageMaintenance\LinkServer_OLAMessageMaintenance\LinkServer1018.OLAMessageMaintenance
+Config\01_Basic\350.OlaMessages\002.OLAMessageMaintenance\LinkServer_OLAMessageMaintenance\LinkServer1023.OLAMessageMaintenance
+Config\01_Basic\350.OlaMessages\002.OLAMessageMaintenance\LinkServer_OLAMessageMaintenance\LinkServer1028.OLAMessageMaintenance
+Config\01_Basic\350.OlaMessages\002.OLAMessageMaintenance\LinkServer_OLAMessageMaintenance\LinkServer103.OLAMessageMaintenance
+Config\01_Basic\350.OlaMessages\002.OLAMessageMaintenance\LinkServer_OLAMessageMaintenance\LinkServer122.OLAMessageMaintenance
+Config\01_Basic\350.OlaMessages\002.OLAMessageMaintenance\LinkServer_OLAMessageMaintenance\LinkServer141.OLAMessageMaintenance
+Config\01_Basic\350.OlaMessages\002.OLAMessageMaintenance\LinkServer_OLAMessageMaintenance\LinkServer142.OLAMessageMaintenance
+Config\01_Basic\350.OlaMessages\002.OLAMessageMaintenance\LinkServer_OLAMessageMaintenance\LinkServer147.OLAMessageMaintenance
+Config\01_Basic\350.OlaMessages\002.OLAMessageMaintenance\LinkServer_OLAMessageMaintenance\LinkServer1999.OLAMessageMaintenance
+Config\01_Basic\350.OlaMessages\002.OLAMessageMaintenance\LinkServer_OLAMessageMaintenance\LinkServerZZZZ.OLAMessageMaintenance
+SSCO Config\Common\01.Basic\002.TouchPoints\003.TouchPointCommandsMaintenance\004_SCO.touchpointcommandsmaintenance
+SSCO Config\Common\01.Basic\035.MenuConfiguration\01.CommandMenu\1_SCO_Commandmenu.menuconfigurationmaintenance
+SSCO Config\Common\06_Test_Data\1.items\Price\10624176.PriceMaintenance
+SSCO Config\Common\06_Test_Data\1.items\Product\10624176.ProductMaintenance
+SSCO Config\Merge\01.Basic\001.Initial\001.StoreHierarchy\001.NTUC_StoreHierarchy.BusinessUnitMaintenance
+SSCO Config\Merge\01.Basic\001.Initial\002.CultureSetting\001_CultureSetting.HierarchyCultureMaintenance
+SSCO Config\Merge\01.Basic\001.Initial\003.ItemHierarchy\001_RootItemHierarchy.ItemHierarchyMaintenance
+SSCO Config\Merge\01.Basic\002.TouchPoints\001.TouchPointGroups\000.POS.TouchPointGroupUpdate
+SSCO Config\Merge\01.Basic\002.TouchPoints\001.TouchPointGroups\001.SCO.TouchPointGroupUpdate
+SSCO Config\Merge\01.Basic\002.TouchPoints\002.TouchPointApplication\010.SelfCheckOut.TouchPointApplicationMaintenance
+SSCO Config\Merge\01.Basic\002.TouchPoints\002.TouchPointApplication\015.POS.TouchPointApplicationMaintenance
+SSCO Config\Merge\01.Basic\002.TouchPoints\003.TouchPointCommandsMaintenance\001_Navigate.TouchPointCommandsMaintenance
+SSCO Config\Merge\01.Basic\002.TouchPoints\003.TouchPointCommandsMaintenance\004_POS.TouchPointCommandsMaintenance
+SSCO Config\Merge\01.Basic\002.TouchPoints\003.TouchPointCommandsMaintenance\004_SCO.touchpointcommandsmaintenance
+SSCO Config\Merge\01.Basic\003.Messages\Tenders\001_RefundNotAllowed.MessageAdd
+SSCO Config\Merge\01.Basic\003.Messages\Tenders\002_VoidTenderNotAllowed.MessageAdd
+SSCO Config\Merge\01.Basic\026.Devices\001.Device_Types\001_Scanner.DeviceTypeMaintenance
+SSCO Config\Merge\01.Basic\026.Devices\001.Device_Types\002_CashDrawer.DeviceTypeMaintenance
+SSCO Config\Merge\01.Basic\026.Devices\001.Device_Types\003_Printer.DeviceTypeMaintenance
+SSCO Config\Merge\01.Basic\026.Devices\001.Device_Types\004_LineDisplay.DeviceTypeMaintenance
+SSCO Config\Merge\01.Basic\026.Devices\001.Device_Types\005_NCRPrinter.DeviceTypeMaintenance
+SSCO Config\Merge\01.Basic\026.Devices\001.Device_Types\007_OposScale.DeviceTypeMaintenance
+SSCO Config\Merge\01.Basic\026.Devices\001.Device_Types\08_CCL.DeviceTypeMaintenance
+SSCO Config\Merge\01.Basic\026.Devices\002.Devices\005_NCRDrawer.DeviceConfigurationAdd
+SSCO Config\Merge\01.Basic\026.Devices\002.Devices\006_NCR_Printer_7198.DeviceConfigurationAdd
+SSCO Config\Merge\01.Basic\026.Devices\002.Devices\007_NCR_Printer_7199.DeviceConfigurationAdd
+SSCO Config\Merge\01.Basic\026.Devices\002.Devices\008_NCR Scanner 7878.DeviceConfigurationAdd
+SSCO Config\Merge\01.Basic\026.Devices\002.Devices\009_NCRScanner.2356.DeviceConfigurationAdd
+SSCO Config\Merge\01.Basic\026.Devices\002.Devices\010_NCRScanner.2357.DeviceConfigurationAdd
+SSCO Config\Merge\01.Basic\026.Devices\002.Devices\011_NCR_Line_Display.DeviceConfigurationAdd
+SSCO Config\Merge\01.Basic\026.Devices\002.Devices\012_ZEBRA SCANNER.DeviceConfigurationAdd
+SSCO Config\Merge\01.Basic\026.Devices\002.Devices\13_PINPadLane2.DeviceConfigurationAdd
+SSCO Config\Merge\01.Basic\035.MenuConfiguration\01.CommandMenu\001_CommandMenu_additional.MenuConfigurationMaintenance
+SSCO Config\Merge\01.Basic\035.MenuConfiguration\01.CommandMenu\1_POS_Commandmenu.MenuConfigurationMaintenance
+SSCO Config\Merge\01.Basic\035.MenuConfiguration\01.CommandMenu\1_SCO_Commandmenu.menuconfigurationmaintenance
+SSCO Config\Merge\01.Basic\035.MenuConfiguration\02.OfficeMenu\0001._CommandsForNavigate.TouchPointCommandsMaintenance
+SSCO Config\Merge\01.Basic\035.MenuConfiguration\02.OfficeMenu\002_OfficeMenu_NcrAdministrator.MenuConfigurationMaintenance
+SSCO Config\Merge\01.Basic\035.MenuConfiguration\03.TenderMenu\001_TendersMenu_SelfCheckOut_TPG.MenuConfigurationMaintenance
+SSCO Config\Merge\01.Basic\035.MenuConfiguration\03.TenderMenu\002_TendersMenu_PoS_TPG.MenuConfigurationMaintenance
+SSCO Config\Merge\01.Basic\035.MenuConfiguration\04.PLUMenu\001_POS_PLU.MenuConfigurationMaintenance
+SSCO Config\Merge\01.Basic\035.MenuConfiguration\04.PLUMenu\101_POS.MenuDisplayTermsMaintenance
+SSCO Config\Merge\01.Basic\036.LocalizedResource\01_XlrPos\DefaultResourcesManagement.DefaultResourcesManagement
+SSCO Config\Merge\01.Basic\036.LocalizedResource\02_POS\001_AllMessages.LocalizedResourceMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\001_Receipt Slip Type\001.MainReceipt.ReceiptSlipTypeMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\001_Receipt Slip Type\002.CancelledPayAtPumpTransaction.ReceiptSlipTypeMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\001_Receipt Slip Type\003.Customer EFT Slip.ReceiptSlipTypeMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\001_Receipt Slip Type\0038.ExternalQeCodSlip.ReceiptSlipTypeMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\001_Receipt Slip Type\004.Customer Voided EFT Slip.ReceiptSlipTypeMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\001_Receipt Slip Type\006.Online Item Slip.ReceiptSlipTypeMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\001_Receipt Slip Type\007.Tender Exchange Slip.ReceiptSlipTypeMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\001_Receipt Slip Type\008.Coupon Slip.ReceiptSlipTypeMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\001_Receipt Slip Type\009.Target Message Slip.ReceiptSlipTypeMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\001_Receipt Slip Type\010.Gift Receipt Slip.ReceiptSlipTypeMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\001_Receipt Slip Type\011.Blind Pickup Slip.ReceiptSlipTypeMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\001_Receipt Slip Type\012.Declaration Slip.ReceiptSlipTypeMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\001_Receipt Slip Type\013.FundTransfer Slip.ReceiptSlipTypeMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\001_Receipt Slip Type\014.EFT Decline Slip.ReceiptSlipTypeMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\001_Receipt Slip Type\015.EFT Declined tenders Slip.ReceiptSlipTypeMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\001_Receipt Slip Type\016.Balance Inquiry Slip.ReceiptSlipTypeMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\001_Receipt Slip Type\017.Personal Account Deposit Slip.ReceiptSlipTypeMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\001_Receipt Slip Type\018.Cashier Barcode Slip.ReceiptSlipTypeMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\001_Receipt Slip Type\019.Personal Account Deposit Slip.ReceiptSlipTypeMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\001_Receipt Slip Type\020.Immediate EFT.ReceiptSlipTypeMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\001_Receipt Slip Type\021.Item Not Found.ReceiptSlipTypeMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\001_Receipt Slip Type\022.Endorsement for Wic Voucher.ReceiptSlipTypeMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\001_Receipt Slip Type\023.Decline Slip for Online Item.ReceiptSlipTypeMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\001_Receipt Slip Type\024.Receiving Page.ReceiptSlipTypeMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\001_Receipt Slip Type\025.Pump Test Calibration.ReceiptSlipTypeMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\001_Receipt Slip Type\026.Atm Cash Changer Report.ReceiptSlipTypeMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\001_Receipt Slip Type\027.Drive Off Receipt.ReceiptSlipTypeMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\001_Receipt Slip Type\028.Unpaid Receipt.ReceiptSlipTypeMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\001_Receipt Slip Type\029.Drive Off Receipt for customert.ReceiptSlipTypeMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\001_Receipt Slip Type\030.Unpaid Receipt for customer.ReceiptSlipTypeMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\001_Receipt Slip Type\031.Product Availability.ReceiptSlipTypeMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\001_Receipt Slip Type\032.Self Weigh Slip.ReceiptSlipTypeMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\001_Receipt Slip Type\033.X Report.ReceiptSlipTypeMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\001_Receipt Slip Type\034.Z Reportt.ReceiptSlipTypeMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\001_Receipt Slip Type\035.CertificateCrct.ReceiptSlipTypeMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\001_Receipt Slip Type\037.EpsImmediateSlip.ReceiptSlipTypeMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\001_Receipt Slip Type\039.ExternalSlipData.ReceiptSlipTypeMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\001.Header.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\002.Training Mode Header.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\003.Return Transaction Header.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\004.Venue Header.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\005.Return Item.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\006.Return Item With Reason Code.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\007.Return Item Only Reason Code.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\008.Price Override Reduction.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\009.Price Override Markup.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\010.Weighted Item.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\011.Weighted Item With Gross.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\012.Multiple Item.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\013.Single Item.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\014.MSU Item.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\015.MSU Weighted Item.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\016.MSU Price Override Reduction.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\017.Weightable MSU Price Override Reduction.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\018.Linked Item Single.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\019.Linked Item Multiple.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\020.Totals.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\021.Total Sold Items.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\022.Total Returned Items.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\023.Tax Summary Header.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\024.Tax Summary Lines.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\025.Tax Summary Footer.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\026.Loyalty.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\027.Loyalty System Offline.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\028.Customer EFT Info.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\0280.QrCodeLine.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\0281.QrCodeLine.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\029.Customer EFT Slip Parameterized Info.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\030.Customer EFT Slip Parameterized Info ICC.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\031.Drawer EFT Info.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\032.Suggested Tip Amounts.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\033.Drawer EFT Footer.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\034.Footer.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\035.Reprint Indicator.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\036.Cheque Information.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\037.Customer EFT Info.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\038.Main Receipt EFT Parameterized Info.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\039.Main Receipt EFT Parameterized Info ICC.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\040.Main Receipt Voiding EFT Parameterized Info.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\041.MainReceiptParametersVoidingICC.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\042.Tender Exchange Receive.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\043.Tender Exchange Pay.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\044.Tender Exchange Header.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\045.Online Item.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\046.OnlineItemParametersMainSlip.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\047.OnlineItemParametersSeparateSlip.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\048.OnlineItemParametersMainSlipTopUp.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\049.OnlineItemParametersSeparateSlipTopUp.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\050.OnlineItemParametersMainExternal.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\051.OnlineItemParametersSeparateExternal.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\052.OnlineItemParametersMainTopUpExternal.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\053.OnlineItemParametersSeparateTopUpExternal.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\054.Online Item On Seperate Slip.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\055.Blind Pickup.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\056.Declaration Header.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\057.Declaration.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\058.Coupon Slip.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\059.Target Message.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\060.Target Message Slip.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\061.Ticket Level Promotions.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\062.Simple Promotion.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\063.Fund Transfer Header.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\064.Fund Transfer.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\065.FundTransferIncludedTaxLines.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\066.Change Tender.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\067.Payment Details.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\068.ForeignCurrency.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\069.Voided Tender.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\070.Voided Tender Header.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\071.Saved Transaction.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\072.Payment Details Header.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\073.Gift Receipt Header.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\074.Single Item for Gift Receipt.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\075.Multiple Item for Gift Receipt.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\076.Refund Tender.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\077.Store Opening Hours.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\078.Merchandise Hierarchy.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\079.Loyalty Upper Delimiter.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\080.Loyalty Lower Delimiter.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\081.Amount Reward.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\082.Points Reward.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\083.Amount And Points Rewards.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\084.decline slip.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\085.Details for a decline slip.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\086.Declined Tenders Header.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\087.Details for a decline slip.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\088.Balance Inquiry Message.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\089.Balance Inquiry Message With Parameters.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\090.BalanceInquiryOnMainSlip.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\091.BalanceInquiryWithParametersOnMainSlip.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\092.Item Not Found Message.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\093.Personal Account Header.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\094.Footer for Personal Account Tenders.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\095.Cashier Barcode.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\096.PaymentDetailsWithCashback.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\097.Single Voided Item.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\098.Multiple Voided Item.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\099.Voided MSU Item.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\100.Weighted Voided Item.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\101.Voided Item Header.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\102.Item With Serial Number.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\103.Online Item With Serial Number.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\104.Voided Transaction.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\105.Item In Voided Transaction.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\106.OnlineItemInVoidedTransaction.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\107.Voided Totals.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\108.Transaction Original Id.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\109.VoidedHeader.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\110.ImmediateDrawerEFT.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\111.Training Mode Billboard2.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\112.Training Mode Billboard3.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\113.Endorsement of Voucher.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\114.Drawer EFT Parameterized Info.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\115.Drawer EFT Parameterized Info ICC.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\116.Immediate Drawer EFT Parameterized Info.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\117.Immediate Drawer EFT Parameterized Info ICC.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\118.DeclineDetailsParametersSlip.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\119.DeclineDetailsParametersICC.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\120.DeclinedTendersDetailsParametersSlip.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\121.OnlineItemParametersProviderMessageMain.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\122.DeclinedTendersDetailsParametersICC.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\123.OnlineItemParametersProviderMessageSeparate.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\124.OnlineItemParametersDeclineSlip.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\125.OnlineItemParametersDeclineProviderMessage.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\126.Tender Start Date.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\127.Tender Expiration Date.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\128.GovernmentTenderFaceAmount.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\129.GovernmentTransactionType.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\130.PersonalAccountName.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\131.PersonalAccountVoidedHeader.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\132.PaymentVoidedDetails.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\133.Tax Exemption Summary Header.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\134.Tax Exemption Summary Lines.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\135.Tax Exemption Summary Footer.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\136.Price Overide on a weighted item.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\137.WeightedPriceOverideWithGross.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\138.Price Overide on a multiple item.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\139.Fuel Item.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\140.Fuel Manual Item.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\141.Fund TransferOfficeHeader.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\142.FundTransferOfficeHeaderCashier.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\143.Fund Transfer.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\144.Fund Transfer Tax Lines.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\145.DenominationsOffice Header.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\146.Denominations Office.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\147.Denominations.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\148.FundTransferFooterOffice.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\149.Declaration Office Header.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\150.DeclarationOfficeHeaderCashier.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\151.DeclarationOffice.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\152.Declaration Footer Office.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\153.Receiving Item.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\154.Receiving Item Header.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\155.TotalReceivingItems.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\156.Receiving Header.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\157.Header Pump Test.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\158.Header Pump Calibration.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\159.Pump Calibration Returned Tank.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\160.Fuel Item For PumpTest.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\161.FuelItemForPumpTestCalibration.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\162.ScoAtmReportCoinsTotal.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\163.SCO ATM Report Coins Bodyl.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\164.SCO ATM Report Coins Title.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\165.ScoAtmReportNotesTotal.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\166.ScoAtmReportNotesBodyl.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\167.ScoAtmReportNotesTitle.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\168.ScoAtmReportGrandTotal.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\169.ScoAtmReportFooter.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\170.VehicleData.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\171.UnpaidVehicleData.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\172.ProductAvailabilityHeader.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\173.ProductAvailabilityFooter.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\174.Search Product.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\175.ProductAvailabilityBusinessUnits.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\176.IngredientItemSingleIndent.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\177.IngredientItemDoubleIndent.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\178.TaxTransactionFeeItem.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\179.Tax Fee Item.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\180.CancelledPayAtPumpTransactionParametersVoidingEFT.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\181.FSA Purchase Summary.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\182.FSAGroups.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\183.FSA Total.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\184.FSA Disclaimer.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\185.Weighted Item Keyed.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\186.WeightedItemKeyedMSU.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\187.Volume Item Keyed.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\188.Product Barcode.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\189.Product Details.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\190.Self Weigh Date.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\191.XReport Transaction.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\192.XReportTransactionCashierAcountability.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\193.XReportTenderLineSalesIncludingTax.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\194.XReportTenderTotalSalesIncludingTax.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\195.XReportTenderTotalReturns.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\196.XReportTenderLinePaidIn.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\197.XReportTenderTotalPaidIn.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\198.XReportTenderLinePaidOut.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\199.XReportTenderTotalPaidOut.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\200.XReportTenderLineTenderLoan.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\201.XReportTenderTotalTenderLoan.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\202.XReportTenderLineTenderPickup.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\203.XReportTenderTotalTenderPickup.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\204.XReportTenderTotalTax.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\205.XReportTenderTotalTransactionTaxFee.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\206.XReportTenderTotalItemFeesTotals.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\207.XReportTenderLineOpenAmount.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\208.XReportTenderTotalOpenAmount.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\209.XReportTenderLineVoids.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\210.XReportTenderTotalVoids.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\211.XReportTenderTotalTaxExemptionTotal.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\212.XReportTenderLineItemVoidsl.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\213.XReportTenderTotalItemVoids.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\214.XReportTenderLineCashbacks.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\215.XReportTenderTotalCashbacks.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\216.XReportTenderLinePromotions.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\217.XReportTenderTotalPromotions.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\218.XReportTenderTotalNoSales.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\219.ZReportTransaction.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\220.ZReportTransactionCashierAcountability.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\221.ZReportTenderLineSalesIncludingTax.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\222.ZReportTenderTotalSalesIncludingTax.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\223.ZReportTenderTotalReturns.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\224.ZReportTenderLinePaidIn.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\225.ZReportTenderTotalPaidIn.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\226.ZReportTenderLinePaidOut.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\227.ZReportTenderTotalPaidOut.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\228.ZReportTenderLineTenderLoan.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\229.ZReportTenderTotalTenderLoan.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\230.ZReportTenderLineTenderPickup.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\231.ZReportTenderTotalTenderPickup.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\232.ZReportTenderLineOpenAmount.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\233.ZReportTenderTotalOpenAmount.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\234.ZReportTenderTotalTax.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\235.ZReportTenderTotalTransactionTaxFee.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\236.ZReportTenderTotalItemFeesTotals.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\237.ZReportTenderLineVoids.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\238.ZReportTenderTotalVoids.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\239.ZReportTenderTotalTaxExemptionTotal.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\240.ZReportTenderLineItemVoids.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\241.ZReportTenderTotalItemVoids.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\242.ZReportTenderLineCashbacks.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\243.ZReportTenderTotalCashbacks.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\244.ZReportTenderLinePromotions.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\245.ZReportTenderTotalPromotions.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\246.ZReportTenderTotalNoSales.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\247.Form Item.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\248.KitSell Instruction.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\249.Single Item Instruction.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\250.OrderModeEatInHeader.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\251.OrderModeTakeOutHeader.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\252.ThirdPartyCustomerOrder.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\253.CertificateCrc.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\254.CertificateCrcBinaries.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\255.Footer Without Barcode.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\259.Tax Fee Summary Lines.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\260.LoyaltySummary.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\261.ReceiptConfigurationParametersMaintenance .ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\262.VoidedCustomer EFT Info.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\263.OnlineItemParametersConfirmationMain.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\264.OnlineItemParametersConfirmationSeparate.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\265.MainReceiptEFTEpsImmediateSlip.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\266.SingleItemWithNewPrice.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\267.SingleItemWithNewPriceWithLinkedItem.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\268.MultipleItemWithNewPrice.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\269.MultipleItemWithNewPriceWithLinkedItem.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\270.WeightedItemWithNewPrice.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\271.WeightedItemWithNewPriceWithLinkedItem.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\272.ItemWithSerialNumberWithNewPrice.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\273.ItemWithSerialNumberWithNewPriceWithLinkedItem.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\274.PriceOverride ReductionWithNewPrice.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\275.PriceOverride ReductionWithNewPriceWithLinkedItem.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\276.WeightedItemWithGrossNewPrice.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\277.WeightedItemWithGrossNewPriceWithLinkedItem.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\278.WeightedItemKeyedWithNewPrice.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\279.WeightedItemKeyedWithNewPriceWithLinkedItem.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\282.PayByPointsAsTenderAuthorizationCustomerReceipt.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\283.LinkCardReceipt.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\284.LoyaltyRedeemed.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\002_Receipt Line Definition\285.ExternalSlipData.ReceiptLineDefinitionMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\001.Header.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\002.TrainingMode.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\003.ReturnItem.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\004.ReturnItemWithReasonCode.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\005.ReturnItemOnlyReasonCode.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\006.MultipleItem.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\007.MsuItem.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\008.WeightedMsuItem.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\009.MsuPriceOverrideReduction.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\010.WeightableMsuPriceOverrideReduction.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\011.PriceOverrideMarkup.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\012.PriceOverrideReduction.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\013.SingleItem.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\014.WeightedItem.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\015.WeightedItemWithGross.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\016WeightedPriceOverideWithGross.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\017.LinkedItemSingle.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\018.LinkedItemMultiple.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\019.Totals.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\020.TotalSoldItems.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\021.TotalReturnedItems.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\022.Footer.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\023.Footer_BlindPickup.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\024.SimplePromotion.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\025.ChequeInfo.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\026.Loyalty.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\027.LoyaltySystemOffline.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\028.TaxSummaryHeader.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\0285.QrCodeLineTemplate.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\0286.QrCodeLineTemplate.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\029.TaxSummaryLines.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\030.TaxSummaryFooter.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\031.TaxExemptionSummaryHeader.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\032.TaxExemptionSummaryLines.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\033.TaxExemptionSummaryFooter.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\034.Reprint.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\035.Header_EFTTemplate.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\036.VoidedHeader_EFTTemplate.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\037.TrainingMode_EFTTemplate.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\038.CustomerEFTSlip_EFTTemplate.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\039.DrawerEFTSlip_EFTTemplate.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\040.SuggestedTipAmounts_EFTTemplate.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\041.DrawerEFTFooter_EFTTemplate.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\042.Footer_EFTTemplate.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\043.DeclineHeader_EFTTemplate.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\044.DeclineDetails_EFTTemplate.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\045.DeclinedTendersDetails_EFTTemplate.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\046.DeclinedTendersDetailsParametersSlip_EFTTemplate.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\047.DeclinedTendersDetailsParametersICC_EFTTemplate.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\048.PaymentDetailsHeader.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\049.PaymentDetails.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\050.Change.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\051.MainReceiptEFT.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\052.TicketLevelPromotion.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\053.TargetMessage.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\054.OnlineItem.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\055.TenderExchangeHeader.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\056.TenderExchangePay.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\057.TenderExchangeReceive.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\058.OnlineItemSlip.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\059.BlindPickupSlip_CashOffice.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\060.TrainingMode_CashOffice.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\061.Header_CashOffice.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\062.Declaration_CashOffice.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\063.Footer_CashOffice.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\064.DeclarationHeader_CashOffice.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\065.ForeignCurrency.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\066.CouponSlip_CashOffice.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\067.FundTransferHeader_CashOffice.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\068.FundTransfer_CashOffice.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\069.FundTransferIncludedTaxLines_CashOffice.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\070.VoidedTender.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\071.VoidedTenderHeader.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\072.SavedTransaction.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\073.GiftReceiptHeader_GiftReceipt.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\074.TrainingMode_GiftReceipt.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\075.GiftReceiptSingleItem_GiftReceipt.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\076.GiftReceiptMultipleItem_GiftReceipt.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\077.Header_GiftReceipt.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\078.Footer_GiftReceipt.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\079.ReturnReceiptHeader.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\080.VenueHeader.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\081.OrderModeEatInHeader.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\082.OrderModeTakeOutHeader.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\083.Refund.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\084.StoreOpeningHours.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\085.MerchandiseHierarchy.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\086.LoyaltyUpperDelimiter.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\087.LoyaltyLowerDelimiter.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\088.AmountReward.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\089.PointsReward.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\090.AmountAndPointsRewards.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\091.TargetMessageSlip.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\092.BalanceInquiry.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\093.PersonalAccountHeader_PersonalAccount.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\094.PaymentDetailsHeader_PersonalAccount.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\095.PaymentDetails_PersonalAccount.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\096.PersonalAccountFooter_PersonalAccount.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\097.Loyalty_PersonalAccount.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\098.ForeignCurrency.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\099.PaymentDetailsWithCashback.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\101.SingleVoidedItem.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\102.MultipleVoidedItem.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\103.VoidedMsuItem.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\104.WeightedVoidedItem.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\105.VoidedItemHeader.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\106.ItemWithSerialNumber.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\107.OnlineItemWithSerialNumber.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\108.VoidedTransaction.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\109.ItemInVoidedTransaction.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\110.OnlineItemInVoidedTransaction.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\111.VoidedTotals.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\112.TransactionOriginalId.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\113.ImmediateDrawerEFT_EFTTemplate.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\114.CustomerEFTParametersSlip.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\115.MainReceiptParametersEFT.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\116.CustomerEFTParametersICC.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\117.MainReceiptParametersICC.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\118.ItemNotFound.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\119.Endorsement.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\120.DrawerEFTParametersSlip.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\121.DrawerEFTParametersICC.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\122.ImmediateDrawerEFTParametersSlip.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\123.ImmediateDrawerEFTParametersICC.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\124.DeclineDetailsParametersSlip_EFTTemplate.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\125.DeclineDetailsParametersICC_EFTTemplate.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\126.MainReceiptParametersVoidingEFT.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\127.MainReceiptParametersVoidingICC.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\128.OnlineItemParametersMainSlip.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\129.OnlineItemParametersSeparateSlip.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\130.OnlineItemParametersMainSlipTopUp.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\131.OnlineItemParametersSeparateSlipTopUp.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\132.OnlineItemParametersMainExternal.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\133.OnlineItemParametersSeparateExternal.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\134.OnlineItemParametersMainTopUpExternal.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\135.OnlineItemParametersSeparateTopUpExternal.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\136.OnlineItemParametersProviderMessageMain.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\137.OnlineItemParametersProviderMessageSeparate.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\138.BalanceInquiryWithParameters.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\139.OnlineItemParametersDeclineSlip.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\140.OnlineItemParametersDeclineProviderMessage.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\141.TenderStartDate.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\142.TenderExpirationDate.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\143.GovernmentTenderFaceAmount.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\144.GovernmentTransactionTypet.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\145.PersonalAccountVoidedHeader_PersonalAccount.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\146.PersonalAccountName_PersonalAccount.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\147.PaymentVoidedDetails_PersonalAccount.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\148.BalanceInquiryOnMainSlip.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\149.BalanceInquiryWithParametersOnMainSlip.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\150.WeightedPriceOveride.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\151.MultiplePriceOveride.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\152.FuelItem.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\153.FuelManualItem.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\154.FundTransferOfficeHeader_CashOffice.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\155.FundTransferOfficeHeaderCashier_CashOffice.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\156.FundTransferOffice_CashOffice.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\157.FundTransferOfficeIncludedTaxLines_CashOffice.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\158.FundTransferFooterOffice_CashOffice.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\159.DeclarationOfficeHeader_CashOffice.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\160.DeclarationOfficeHeaderCashier_CashOffice.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\161.DeclarationOffice_CashOffice.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\162.DeclarationFooterOffice_CashOffice.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\163.DenominationsOfficeHeader_CashOffice.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\164.DenominationsOffice_CashOffice.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\165.ReceivingItem.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\166.ReceivingHeader_ReceivingHeader.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\167.Footer_ReceivingTemplate.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\168.ReceivingItemHeader_ReceivingItemHeader.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\169.TotalReceivingItems_TotalReceivingItems.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\170.HeaderPumpCalibration_HeaderPumpCalibration.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\171.HeaderPumpTest_HeaderPumpTest.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\172.PumpCalibrationReturnedTank_PumpCalibrationReturnedTank.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\173.FuelItemForPumpTest_FuelItemForPumpTestCalibration.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\174.FuelItemForPumpTestCalibration_FuelItemForPumpTestCalibration.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\175.ScoAtmReportCoinsTitle.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\176.ScoAtmReportCoinsBody.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\177.ScoAtmReportCoinsTotal.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\178.ScoAtmReportNotesTitle.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\179.ScoAtmReportNotesBody.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\180.ScoAtmReportNotesTotal.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\181.ScoAtmReportGrandTotal.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\182.ScoAtmReportFooter.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\183.DriveOffVehicleData_VehicleData.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\184.Header_DriveOffHeader.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\185.Header_UnPaidHeader.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\186.UnpaidVehicleData_VehicleData.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\187.SearchProduct.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\188.ProductAvailabilityBusinessUnits.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\189.TrainingMode_ProductAvailabilityStors.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\190.IngredientItemSingleIndent.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\191.IngredientItemDoubleIndent.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\192.TaxFeeItem.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\193.TaxTransactionFeeItem.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\194.CancelledPayAtPumpTransactionParametersVoidingEFT.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\195.FSAPurchaseSummary.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\196.FSAGroups.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\197.FSATotal.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\198.FSADisclaimer.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\199.WeightedItemKeyed.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\200.WeightedItemKeyedMSU.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\201.VolumeItemKeyed.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\202.FormItem.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\203.KitSellInstruction.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\204.SingleItemInstruction.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\205.VoidedTransaction_GiftReceipt.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\206.ProductBarcode_SelfWeighTemplate.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\207.ProductDetails_SelfWeighTemplate.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\208.SelfWeighDate_SelfWeighTemplate.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\209.ThirdPartyCustomerOrder.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\210.FooterNoBarcode.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\211.XReportTransaction_XReportTransaction.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\212.XReportTransactionCashierAcountability.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\213.XReportTenderLineSalesIncludingTax.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\214.XReportTenderTotalSalesIncludingTax.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\215.XReportTenderTotalReturns.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\216.XReportTenderLinePaidIn.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\217.XReportTenderTotalPaidIn.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\218.XReportTenderLinePaidOut.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\219.XReportTenderTotalPaidOut.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\220.XReportTenderLineTenderLoan.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\221.XReportTenderTotalTenderLoan.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\222.XReportTenderLineOpenAmount.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\223.XReportTenderTotalOpenAmount.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\224.XReportTenderLineTenderPickup.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\225.XReportTenderTotalTenderPickup.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\226.XReportTenderTotalTax.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\227.XReportTenderTotalTransactionTaxFee.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\228.XReportTenderTotalItemFeesTotals.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\229.XReportTenderLineVoids.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\230.XReportTenderTotalVoids.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\231.XReportTenderTotalTaxExemptionTotal.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\232.XReportTenderLineItemVoids.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\233.XReportTenderTotalItemVoids.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\234.XReportTenderLineCashbacks.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\235.XReportTenderTotalCashbacks.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\236.XReportTenderLinePromotions.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\237.XReportTenderTotalPromotions.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\238.XReportTenderTotalNoSales.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\239.ZReportTransaction.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\240.ZReportTransactionCashierAcountability.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\241.ZReportTenderLineSalesIncludingTax.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\242.ZReportTenderTotalSalesIncludingTax.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\243.ZReportTenderTotalReturns.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\244.ZReportTenderLinePaidIn.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\245.ZReportTenderLinePaidOut.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\246.ZReportTenderTotalPaidOut.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\247.ZReportTenderTotalPaidIn.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\248.ZReportTenderLineTenderLoan.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\249.ZReportTenderTotalTenderLoan.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\250.ZReportTenderLineOpenAmount.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\251.ZReportTenderTotalOpenAmount.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\252ZReportTenderLineTenderPickup.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\253.ZReportTenderTotalTenderPickup.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\254.ZReportTenderTotalTax.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\255.ZReportTenderTotalTransactionTaxFee.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\256.ZReportTenderTotalItemFeesTotals.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\257.ZReportTenderLineVoids.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\258.ZReportTenderTotalVoids.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\259.ZReportTenderTotalTaxExemptionTotal.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\260.ZReportTenderLineItemVoids.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\261.ZReportTenderTotalItemVoids.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\262.ZReportTenderLineCashbacks.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\263.ZReportTenderTotalCashbacks.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\264.ZReportTenderLinePromotions.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\265.ZReportTenderTotalPromotions.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\266.ZReportTenderTotalNoSales.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\266_SingleItemWithNewPrice.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\267.CertificateCrc.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\267_SingleItemWithNewPriceWithLinkedItem.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\268.CertificateCrcBinaries.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\268_MultipleItemWithNewPrice.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\269_MultipleItemWithNewPriceWithLinkedItem.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\270_WeightedItemWithNewPrice.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\271_WeightedItemWithNewPriceWithLinkedItem.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\272.TaxFeeSummaryLines.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\272_ItemWithSerialNumberWithNewPrice.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\273.TrainingModeBillboard2.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\273_ItemWithSerialNumberWithNewPriceWithLinkedItem.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\274.TrainingModeBillboard3.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\274_PriceOverrideReductionWithNewPrice.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\275.ProductAvailabilityHeader.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\275_PriceOverrideReductionWithNewPriceWithLinkedItem.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\276.ProductAvailabilityFooter.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\276_WeightedItemWithGrossNewPrice.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\277.XReportTenderLineTaxExemptionTotal.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\277_WeightedItemWithGrossNewPriceWithLinkedItem.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\278.ZReportTenderLineTaxExemptionTotal.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\278_WeightedItemKeyedWithNewPrice.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\279.CashierBarcode.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\279_WeightedItemKeyedWithNewPriceWithLinkedItem.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\280.DefaultTemplate_LoyaltySummary.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\281.VoidedCustomerEFTSlip_EFTTemplate.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\282.OnlineItemParametersConfirmationMain.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\283.OnlineItemParametersConfirmationSeparate.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\284.MainReceiptEFTEpsImmediateSlip.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\287.PayByPointsAsTenderAuthorizationCustomerReceipt.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\288.LinkCardReceipt.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\289.LoyaltyRedeemed.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\003_Receipt Template\290.ExternalSlipDataTemplate.LayoutTemplateMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\004_Receipt Layout\001.Default Layout Main Receipt.ReceiptLayoutMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\004_Receipt Layout\002.EFT Customert.ReceiptLayoutMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\004_Receipt Layout\003.EFT Voided Customer.ReceiptLayoutMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\004_Receipt Layout\004.EFT Drawer.ReceiptLayoutMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\004_Receipt Layout\0040.ExternalQrCodeSlip.ReceiptLayoutMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\004_Receipt Layout\005.Tender Exchange.ReceiptLayoutMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\004_Receipt Layout\006.OnlineItem.ReceiptLayoutMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\004_Receipt Layout\007.BlindPickup.ReceiptLayoutMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\004_Receipt Layout\008.Declaration.ReceiptLayoutMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\004_Receipt Layout\009.CouponSlip.ReceiptLayoutMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\004_Receipt Layout\010.FundTransferSlip.ReceiptLayoutMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\004_Receipt Layout\011.GiftReceiptSlip.ReceiptLayoutMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\004_Receipt Layout\012.EFT Decline Layout.ReceiptLayoutMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\004_Receipt Layout\013.EFT Declined tenders Layout.ReceiptLayoutMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\004_Receipt Layout\014.Target Message Layout.ReceiptLayoutMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\004_Receipt Layout\015.Balance Inquiry Layout.ReceiptLayoutMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\004_Receipt Layout\016.Personal Account Layout.ReceiptLayoutMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\004_Receipt Layout\017Cashier Barcode Layout.ReceiptLayoutMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\004_Receipt Layout\018.Drawer Personal Account.ReceiptLayoutMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\004_Receipt Layout\019.Immediate EFT Layout.ReceiptLayoutMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\004_Receipt Layout\020.Item Not Found Layout.ReceiptLayoutMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\004_Receipt Layout\021.WIC Vouchert.ReceiptLayoutMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\004_Receipt Layout\022.Online Item Decline.ReceiptLayoutMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\004_Receipt Layout\023.FundTransferOffice.ReceiptLayoutMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\004_Receipt Layout\024.DeclarationOffice.ReceiptLayoutMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\004_Receipt Layout\025.ReceivingLayout.ReceiptLayoutMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\004_Receipt Layout\026.Pump Test.ReceiptLayoutMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\004_Receipt Layout\027.ScoAtmCashChangerReport.ReceiptLayoutMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\004_Receipt Layout\028.DriveOffReceipt.ReceiptLayoutMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\004_Receipt Layout\029.UnpaidReceipt.ReceiptLayoutMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\004_Receipt Layout\030.DriveOffCustomerReceipt.ReceiptLayoutMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\004_Receipt Layout\031.UnpaidCustomerReceipt.ReceiptLayoutMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\004_Receipt Layout\032.ProductAvailabilitySlip.ReceiptLayoutMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\004_Receipt Layout\033.CancelledPayAtPumpTransaction.ReceiptLayoutMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\004_Receipt Layout\034.SelfWeighSlip.ReceiptLayoutMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\004_Receipt Layout\035.X Report.ReceiptLayoutMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\004_Receipt Layout\036.Z Report.ReceiptLayoutMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\004_Receipt Layout\037.CertificateCrc.ReceiptLayoutMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\004_Receipt Layout\039.Default Layout MainReceiptEFTEpsImmediateSlip.ReceiptLayoutMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\004_Receipt Layout\041.ExternalSlipData.ReceiptLayoutMaintenance
+SSCO Config\Merge\01.Basic\220.Receipt\006.BusinessUnitImage\Fairprice.BusinessUnitImageMaintenance
+SSCO Config\Merge\01.Basic\350.OlaMessages\001.MessageAdd\120_TM.MessageAdd
+SSCO Config\Merge\01.Basic\350.OlaMessages\001.MessageAdd\121_TO.MessageAdd
+SSCO Config\Merge\01.Basic\350.OlaMessages\001.MessageAdd\122_NACK.MessageAdd
+SSCO Config\Merge\01.Basic\350.OlaMessages\001.MessageAdd\123_DE.MessageAdd
+SSCO Config\Merge\01.Basic\350.OlaMessages\001.MessageAdd\124_VRG_TO.MessageAdd
+SSCO Config\Merge\01.Basic\350.OlaMessages\001.MessageAdd\126_GC_PO.MessageAdd
+SSCO Config\Merge\01.Basic\350.OlaMessages\001.MessageAdd\128_GC_TO.MessageAdd
+SSCO Config\Merge\01.Basic\350.OlaMessages\001.MessageAdd\129_GC_VE.MessageAdd
+SSCO Config\Merge\01.Basic\350.OlaMessages\001.MessageAdd\130_GC_AA.MessageAdd
+SSCO Config\Merge\01.Basic\350.OlaMessages\001.MessageAdd\131_GC_AF.MessageAdd
+SSCO Config\Merge\01.Basic\350.OlaMessages\001.MessageAdd\iTunesGCs103.MessageAdd
+SSCO Config\Merge\01.Basic\350.OlaMessages\001.MessageAdd\iTunesGCs120.MessageAdd
+SSCO Config\Merge\01.Basic\350.OlaMessages\001.MessageAdd\iTunesGCs121.MessageAdd
+SSCO Config\Merge\01.Basic\350.OlaMessages\001.MessageAdd\iTunesGCs124.MessageAdd
+SSCO Config\Merge\01.Basic\350.OlaMessages\001.MessageAdd\iTunesGCs125.MessageAdd
+SSCO Config\Merge\01.Basic\350.OlaMessages\001.MessageAdd\iTunesGCs130.MessageAdd
+SSCO Config\Merge\01.Basic\350.OlaMessages\001.MessageAdd\iTunesGCs200.MessageAdd
+SSCO Config\Merge\01.Basic\350.OlaMessages\001.MessageAdd\OCBC_ACK_122.MessageAdd
+SSCO Config\Merge\01.Basic\350.OlaMessages\001.MessageAdd\OCBC_AP_10.MessageAdd
+SSCO Config\Merge\01.Basic\350.OlaMessages\001.MessageAdd\OCBC_AU_16.MessageAdd
+SSCO Config\Merge\01.Basic\350.OlaMessages\001.MessageAdd\OCBC_AV_11.MessageAdd
+SSCO Config\Merge\01.Basic\350.OlaMessages\001.MessageAdd\OCBC_BAO_79.MessageAdd
+SSCO Config\Merge\01.Basic\350.OlaMessages\001.MessageAdd\OCBC_BNF_85.MessageAdd
+SSCO Config\Merge\01.Basic\350.OlaMessages\001.MessageAdd\OCBC_BN_31.MessageAdd
+SSCO Config\Merge\01.Basic\350.OlaMessages\001.MessageAdd\OCBC_BTI_89.MessageAdd
+SSCO Config\Merge\01.Basic\350.OlaMessages\001.MessageAdd\OCBC_BTW_95.MessageAdd
+SSCO Config\Merge\01.Basic\350.OlaMessages\001.MessageAdd\OCBC_CA_35.MessageAdd
+SSCO Config\Merge\01.Basic\350.OlaMessages\001.MessageAdd\OCBC_CA_37.MessageAdd
+SSCO Config\Merge\01.Basic\350.OlaMessages\001.MessageAdd\OCBC_CA_60.MessageAdd
+SSCO Config\Merge\01.Basic\350.OlaMessages\001.MessageAdd\OCBC_CA_66.MessageAdd
+SSCO Config\Merge\01.Basic\350.OlaMessages\001.MessageAdd\OCBC_CC_17.MessageAdd
+SSCO Config\Merge\01.Basic\350.OlaMessages\001.MessageAdd\OCBC_CD_18.MessageAdd
+SSCO Config\Merge\01.Basic\350.OlaMessages\001.MessageAdd\OCBC_CIP_90.MessageAdd
+SSCO Config\Merge\01.Basic\350.OlaMessages\001.MessageAdd\OCBC_CP_32.MessageAdd
+SSCO Config\Merge\01.Basic\350.OlaMessages\001.MessageAdd\OCBC_DC_51.MessageAdd
+SSCO Config\Merge\01.Basic\350.OlaMessages\001.MessageAdd\OCBC_DE_125.MessageAdd
+SSCO Config\Merge\01.Basic\350.OlaMessages\001.MessageAdd\OCBC_DN_5.MessageAdd
+SSCO Config\Merge\01.Basic\350.OlaMessages\001.MessageAdd\OCBC_DR_26.MessageAdd
+SSCO Config\Merge\01.Basic\350.OlaMessages\001.MessageAdd\OCBC_ECHN_91.MessageAdd
+SSCO Config\Merge\01.Basic\350.OlaMessages\001.MessageAdd\OCBC_ECHS_94.MessageAdd
+SSCO Config\Merge\01.Basic\350.OlaMessages\001.MessageAdd\OCBC_ECHS_96.MessageAdd
+SSCO Config\Merge\01.Basic\350.OlaMessages\001.MessageAdd\OCBC_EC_12.MessageAdd
+SSCO Config\Merge\01.Basic\350.OlaMessages\001.MessageAdd\OCBC_EC_13.MessageAdd
+SSCO Config\Merge\01.Basic\350.OlaMessages\001.MessageAdd\OCBC_EC_14.MessageAdd
+SSCO Config\Merge\01.Basic\350.OlaMessages\001.MessageAdd\OCBC_EC_25.MessageAdd
+SSCO Config\Merge\01.Basic\350.OlaMessages\001.MessageAdd\OCBC_EC_3.MessageAdd
+SSCO Config\Merge\01.Basic\350.OlaMessages\001.MessageAdd\OCBC_EC_30.MessageAdd
+SSCO Config\Merge\01.Basic\350.OlaMessages\001.MessageAdd\OCBC_EC_33.MessageAdd
+SSCO Config\Merge\01.Basic\350.OlaMessages\001.MessageAdd\OCBC_EC_54.MessageAdd
+SSCO Config\Merge\01.Basic\350.OlaMessages\001.MessageAdd\OCBC_EL_61.MessageAdd
+SSCO Config\Merge\01.Basic\350.OlaMessages\001.MessageAdd\OCBC_ER_6.MessageAdd
+SSCO Config\Merge\01.Basic\350.OlaMessages\001.MessageAdd\OCBC_FE_27.MessageAdd
+SSCO Config\Merge\01.Basic\350.OlaMessages\001.MessageAdd\OCBC_FL_28.MessageAdd
+SSCO Config\Merge\01.Basic\350.OlaMessages\001.MessageAdd\OCBC_FN_40.MessageAdd
+SSCO Config\Merge\01.Basic\350.OlaMessages\001.MessageAdd\OCBC_FU_24.MessageAdd
+SSCO Config\Merge\01.Basic\350.OlaMessages\001.MessageAdd\OCBC_FU_29.MessageAdd
+SSCO Config\Merge\01.Basic\350.OlaMessages\001.MessageAdd\OCBC_HCCA_88.MessageAdd
+SSCO Config\Merge\01.Basic\350.OlaMessages\001.MessageAdd\OCBC_HC_67.MessageAdd
+SSCO Config\Merge\01.Basic\350.OlaMessages\001.MessageAdd\OCBC_IA_44.MessageAdd
+SSCO Config\Merge\01.Basic\350.OlaMessages\001.MessageAdd\OCBC_IE_45.MessageAdd
+SSCO Config\Merge\01.Basic\350.OlaMessages\001.MessageAdd\OCBC_IE_46.MessageAdd
+SSCO Config\Merge\01.Basic\350.OlaMessages\001.MessageAdd\OCBC_IE_47.MessageAdd
+SSCO Config\Merge\01.Basic\350.OlaMessages\001.MessageAdd\OCBC_IE_48.MessageAdd
+SSCO Config\Merge\01.Basic\350.OlaMessages\001.MessageAdd\OCBC_IE_49.MessageAdd
+SSCO Config\Merge\01.Basic\350.OlaMessages\001.MessageAdd\OCBC_IE_50.MessageAdd
+SSCO Config\Merge\01.Basic\350.OlaMessages\001.MessageAdd\OCBC_IE_69.MessageAdd
+SSCO Config\Merge\01.Basic\350.OlaMessages\001.MessageAdd\OCBC_IE_70.MessageAdd
+SSCO Config\Merge\01.Basic\350.OlaMessages\001.MessageAdd\OCBC_IE_71.MessageAdd
+SSCO Config\Merge\01.Basic\350.OlaMessages\001.MessageAdd\OCBC_IE_72.MessageAdd
+SSCO Config\Merge\01.Basic\350.OlaMessages\001.MessageAdd\OCBC_IE_73.MessageAdd
+SSCO Config\Merge\01.Basic\350.OlaMessages\001.MessageAdd\OCBC_IE_74.MessageAdd
+SSCO Config\Merge\01.Basic\350.OlaMessages\001.MessageAdd\OCBC_IP_55.MessageAdd
+SSCO Config\Merge\01.Basic\350.OlaMessages\001.MessageAdd\OCBC_IR__20.MessageAdd
+SSCO Config\Merge\01.Basic\350.OlaMessages\001.MessageAdd\OCBC_IT_58.MessageAdd
+SSCO Config\Merge\01.Basic\350.OlaMessages\001.MessageAdd\OCBC_KSE_76.MessageAdd
+SSCO Config\Merge\01.Basic\350.OlaMessages\001.MessageAdd\OCBC_LC_41.MessageAdd
+SSCO Config\Merge\01.Basic\350.OlaMessages\001.MessageAdd\OCBC_LE_65.MessageAdd
+SSCO Config\Merge\01.Basic\350.OlaMessages\001.MessageAdd\OCBC_NC_39.MessageAdd
+SSCO Config\Merge\01.Basic\350.OlaMessages\001.MessageAdd\OCBC_NC_52.MessageAdd
+SSCO Config\Merge\01.Basic\350.OlaMessages\001.MessageAdd\OCBC_NC_56.MessageAdd
+SSCO Config\Merge\01.Basic\350.OlaMessages\001.MessageAdd\OCBC_ND_103.MessageAdd
+SSCO Config\Merge\01.Basic\350.OlaMessages\001.MessageAdd\OCBC_NI_15.MessageAdd
+SSCO Config\Merge\01.Basic\350.OlaMessages\001.MessageAdd\OCBC_NRE_126.MessageAdd
+SSCO Config\Merge\01.Basic\350.OlaMessages\001.MessageAdd\OCBC_NS_53.MessageAdd
+SSCO Config\Merge\01.Basic\350.OlaMessages\001.MessageAdd\OCBC_NT_21.MessageAdd
+SSCO Config\Merge\01.Basic\350.OlaMessages\001.MessageAdd\OCBC_OA_64.MessageAdd
+SSCO Config\Merge\01.Basic\350.OlaMessages\001.MessageAdd\OCBC_PC_1.MessageAdd
+SSCO Config\Merge\01.Basic\350.OlaMessages\001.MessageAdd\OCBC_PC_4.MessageAdd
+SSCO Config\Merge\01.Basic\350.OlaMessages\001.MessageAdd\OCBC_PC_43.MessageAdd
+SSCO Config\Merge\01.Basic\350.OlaMessages\001.MessageAdd\OCBC_PC_7.MessageAdd
+SSCO Config\Merge\01.Basic\350.OlaMessages\001.MessageAdd\OCBC_PE_38.MessageAdd
+SSCO Config\Merge\01.Basic\350.OlaMessages\001.MessageAdd\OCBC_PE_81.MessageAdd
+SSCO Config\Merge\01.Basic\350.OlaMessages\001.MessageAdd\OCBC_PE_82.MessageAdd
+SSCO Config\Merge\01.Basic\350.OlaMessages\001.MessageAdd\OCBC_PE_83.MessageAdd
+SSCO Config\Merge\01.Basic\350.OlaMessages\001.MessageAdd\OCBC_PE_84.MessageAdd
+SSCO Config\Merge\01.Basic\350.OlaMessages\001.MessageAdd\OCBC_PE_86.MessageAdd
+SSCO Config\Merge\01.Basic\350.OlaMessages\001.MessageAdd\OCBC_PE_87.MessageAdd
+SSCO Config\Merge\01.Basic\350.OlaMessages\001.MessageAdd\OCBC_PTE_75.MessageAdd
+SSCO Config\Merge\01.Basic\350.OlaMessages\001.MessageAdd\OCBC_RC_36.MessageAdd
+SSCO Config\Merge\01.Basic\350.OlaMessages\001.MessageAdd\OCBC_RC_59.MessageAdd
+SSCO Config\Merge\01.Basic\350.OlaMessages\001.MessageAdd\OCBC_RC_62.MessageAdd
+SSCO Config\Merge\01.Basic\350.OlaMessages\001.MessageAdd\OCBC_RE_2.MessageAdd
+SSCO Config\Merge\01.Basic\350.OlaMessages\001.MessageAdd\OCBC_RE_77.MessageAdd
+SSCO Config\Merge\01.Basic\350.OlaMessages\001.MessageAdd\OCBC_RFN_80.MessageAdd
+SSCO Config\Merge\01.Basic\350.OlaMessages\001.MessageAdd\OCBC_RP_9.MessageAdd
+SSCO Config\Merge\01.Basic\350.OlaMessages\001.MessageAdd\OCBC_RR_68.MessageAdd
+SSCO Config\Merge\01.Basic\350.OlaMessages\001.MessageAdd\OCBC_RT_19.MessageAdd
+SSCO Config\Merge\01.Basic\350.OlaMessages\001.MessageAdd\OCBC_SF_34.MessageAdd
+SSCO Config\Merge\01.Basic\350.OlaMessages\001.MessageAdd\OCBC_SM_22.MessageAdd
+SSCO Config\Merge\01.Basic\350.OlaMessages\001.MessageAdd\OCBC_SV_63.MessageAdd
+SSCO Config\Merge\01.Basic\350.OlaMessages\001.MessageAdd\OCBC_TCBC_93.MessageAdd
+SSCO Config\Merge\01.Basic\350.OlaMessages\001.MessageAdd\OCBC_TCBR_92.MessageAdd
+SSCO Config\Merge\01.Basic\350.OlaMessages\001.MessageAdd\OCBC_TM_120.MessageAdd
+SSCO Config\Merge\01.Basic\350.OlaMessages\001.MessageAdd\OCBC_TNA_127.MessageAdd
+SSCO Config\Merge\01.Basic\350.OlaMessages\001.MessageAdd\OCBC_TNF_78.MessageAdd
+SSCO Config\Merge\01.Basic\350.OlaMessages\001.MessageAdd\OCBC_TN_57.MessageAdd
+SSCO Config\Merge\01.Basic\350.OlaMessages\001.MessageAdd\OCBC_TOH_124.MessageAdd
+SSCO Config\Merge\01.Basic\350.OlaMessages\001.MessageAdd\OCBC_TO_121.MessageAdd
+SSCO Config\Merge\01.Basic\350.OlaMessages\001.MessageAdd\OCBC_UA_42.MessageAdd
+SSCO Config\Merge\01.Basic\350.OlaMessages\001.MessageAdd\OCBC_UT_23.MessageAdd
+SSCO Config\Merge\01.Basic\350.OlaMessages\001.MessageAdd\OCBC_VS_8.MessageAdd
+SSCO Config\Merge\01.Basic\350.OlaMessages\002.OLAMessageMaintenance\120_TM.OLAMessageMaintenance
+SSCO Config\Merge\01.Basic\350.OlaMessages\002.OLAMessageMaintenance\121_TO.OLAMessageMaintenance
+SSCO Config\Merge\01.Basic\350.OlaMessages\002.OLAMessageMaintenance\122_NACK.OLAMessageMaintenance
+SSCO Config\Merge\01.Basic\350.OlaMessages\002.OLAMessageMaintenance\123_DE.OLAMessageMaintenance
+SSCO Config\Merge\01.Basic\350.OlaMessages\002.OLAMessageMaintenance\124_VRG_TM.OLAMessageMaintenance
+SSCO Config\Merge\01.Basic\350.OlaMessages\002.OLAMessageMaintenance\125_VRG_TO.OLAMessageMaintenance
+SSCO Config\Merge\01.Basic\350.OlaMessages\002.OLAMessageMaintenance\126_GC_PO.OLAMessageMaintenance
+SSCO Config\Merge\01.Basic\350.OlaMessages\002.OLAMessageMaintenance\127_GC_TM.OLAMessageMaintenance
+SSCO Config\Merge\01.Basic\350.OlaMessages\002.OLAMessageMaintenance\128_GC_TO.OLAMessageMaintenance
+SSCO Config\Merge\01.Basic\350.OlaMessages\002.OLAMessageMaintenance\129_GC_VE.OLAMessageMaintenance
+SSCO Config\Merge\01.Basic\350.OlaMessages\002.OLAMessageMaintenance\130_GC_AA.OLAMessageMaintenance
+SSCO Config\Merge\01.Basic\350.OlaMessages\002.OLAMessageMaintenance\131_GC_AF.OLAMessageMaintenance
+SSCO Config\Merge\01.Basic\350.OlaMessages\002.OLAMessageMaintenance\iTunesGCs103.OLAMessageMaintenance
+SSCO Config\Merge\01.Basic\350.OlaMessages\002.OLAMessageMaintenance\iTunesGCs120.OLAMessageMaintenance
+SSCO Config\Merge\01.Basic\350.OlaMessages\002.OLAMessageMaintenance\iTunesGCs121.OLAMessageMaintenance
+SSCO Config\Merge\01.Basic\350.OlaMessages\002.OLAMessageMaintenance\iTunesGCs124.OLAMessageMaintenance
+SSCO Config\Merge\01.Basic\350.OlaMessages\002.OLAMessageMaintenance\iTunesGCs125.OLAMessageMaintenance
+SSCO Config\Merge\01.Basic\350.OlaMessages\002.OLAMessageMaintenance\iTunesGCs130.OLAMessageMaintenance
+SSCO Config\Merge\01.Basic\350.OlaMessages\002.OLAMessageMaintenance\iTunesGCs200.OLAMessageMaintenance
+SSCO Config\Merge\01.Basic\350.OlaMessages\002.OLAMessageMaintenance\OCBC_ACK_122.OLAMessageMaintenance
+SSCO Config\Merge\01.Basic\350.OlaMessages\002.OLAMessageMaintenance\OCBC_DE_125.OLAMessageMaintenance
+SSCO Config\Merge\01.Basic\350.OlaMessages\002.OLAMessageMaintenance\OCBC_ND_103.OLAMessageMaintenance
+SSCO Config\Merge\01.Basic\350.OlaMessages\002.OLAMessageMaintenance\OCBC_NRE_126.OLAMessageMaintenance
+SSCO Config\Merge\01.Basic\350.OlaMessages\002.OLAMessageMaintenance\OCBC_TM_120.OLAMessageMaintenance
+SSCO Config\Merge\01.Basic\350.OlaMessages\002.OLAMessageMaintenance\OCBC_TNA_127.OLAMessageMaintenance
+SSCO Config\Merge\01.Basic\350.OlaMessages\002.OLAMessageMaintenance\OCBC_TOH_124.OLAMessageMaintenance
+SSCO Config\Merge\01.Basic\350.OlaMessages\002.OLAMessageMaintenance\OCBC_TO_121.OLAMessageMaintenance
+SSCO Config\Merge\01.Basic\350.OlaMessages\002.OLAMessageMaintenance\Offline_OCBC_TM_120.OLAMessageMaintenance
+SSCO Config\Merge\01.Basic\350.OlaMessages\002.OLAMessageMaintenance\Offline_OCBC_TO_121.OLAMessageMaintenance
+SSCO Config\Merge\01.Basic\350.OlaMessages\002.OLAMessageMaintenance\PAYNOWOffline_TM_120.OLAMessageMaintenance
+SSCO Config\Merge\01.Basic\350.OlaMessages\002.OLAMessageMaintenance\PAYNOWOffline_TO_121.OLAMessageMaintenance
+SSCO Config\Merge\01.Basic\350.OlaMessages\002.OLAMessageMaintenance\PAYNOW_ACK_122.OLAMessageMaintenance
+SSCO Config\Merge\01.Basic\350.OlaMessages\002.OLAMessageMaintenance\PAYNOW_DE_125.OLAMessageMaintenance
+SSCO Config\Merge\01.Basic\350.OlaMessages\002.OLAMessageMaintenance\PAYNOW_ND_103.OLAMessageMaintenance
+SSCO Config\Merge\01.Basic\350.OlaMessages\002.OLAMessageMaintenance\PAYNOW_NRE_126.OLAMessageMaintenance
+SSCO Config\Merge\01.Basic\350.OlaMessages\002.OLAMessageMaintenance\PAYNOW_TM_120.OLAMessageMaintenance
+SSCO Config\Merge\01.Basic\350.OlaMessages\002.OLAMessageMaintenance\PAYNOW_TNA_127.OLAMessageMaintenance
+SSCO Config\Merge\01.Basic\350.OlaMessages\002.OLAMessageMaintenance\PAYNOW_TOH_124.OLAMessageMaintenance
+SSCO Config\Merge\01.Basic\350.OlaMessages\002.OLAMessageMaintenance\PAYNOW_TO_121.OLAMessageMaintenance
+SSCO Config\Merge\01.Basic\350.OlaMessages\002.OLAMessageMaintenance\WECHATOffline_TM_120.OLAMessageMaintenance
+SSCO Config\Merge\01.Basic\350.OlaMessages\002.OLAMessageMaintenance\WECHATOffline_TO_121.OLAMessageMaintenance
+SSCO Config\Merge\01.Basic\350.OlaMessages\002.OLAMessageMaintenance\WECHAT_ACK_122.OLAMessageMaintenance
+SSCO Config\Merge\01.Basic\350.OlaMessages\002.OLAMessageMaintenance\WECHAT_DE_125.OLAMessageMaintenance
+SSCO Config\Merge\01.Basic\350.OlaMessages\002.OLAMessageMaintenance\WECHAT_ND_103.OLAMessageMaintenance
+SSCO Config\Merge\01.Basic\350.OlaMessages\002.OLAMessageMaintenance\WECHAT_NRE_126.OLAMessageMaintenance
+SSCO Config\Merge\01.Basic\350.OlaMessages\002.OLAMessageMaintenance\WECHAT_TM_120.OLAMessageMaintenance
+SSCO Config\Merge\01.Basic\350.OlaMessages\002.OLAMessageMaintenance\WECHAT_TNA_127.OLAMessageMaintenance
+SSCO Config\Merge\01.Basic\350.OlaMessages\002.OLAMessageMaintenance\WECHAT_TOH_124.OLAMessageMaintenance
+SSCO Config\Merge\01.Basic\350.OlaMessages\002.OLAMessageMaintenance\WECHAT_TO_121.OLAMessageMaintenance
+SSCO Config\Merge\02_Data\01.NCR\1000_Department\001_Departments.DepartmentSaveOrUpdate
+SSCO Config\Merge\02_Data\01.NCR\1020_Products\001_CDA_Items_Products.ProductMaintenance
+SSCO Config\Merge\02_Data\01.NCR\1020_Products\10624175.ProductMaintenance
+SSCO Config\Merge\02_Data\01.NCR\1020_Products\5703.ProductMaintenance
+SSCO Config\Merge\02_Data\01.NCR\1020_Products\FP Gift Card.ProductMaintenance
+SSCO Config\Merge\02_Data\01.NCR\1020_Products\HCS.ProductMaintenance
+SSCO Config\Merge\02_Data\01.NCR\1020_Products\_iTunes GC.ProductMaintenance
+SSCO Config\Merge\02_Data\01.NCR\1025_Prices\001_CDA_Items.PriceMaintenance
+SSCO Config\Merge\02_Data\01.NCR\1025_Prices\10624175.PriceMaintenance
+SSCO Config\Merge\02_Data\01.NCR\1025_Prices\FP Gift Card.PriceMaintenance
+SSCO Config\Merge\02_Data\01.NCR\1025_Prices\HCS.PriceMaintenance
+SSCO Config\Merge\02_Data\01.NCR\1025_Prices\_iTunes GC.PriceMaintenance
+SSCO Config\Merge\03.Customer_Env\1041_StoreSpecSysParams\02_BalancingType\447_BalancingType.SystemParametersAdd
+SSCO Config\Merge\06_Test_Data\1.items\Price\002_9999990000001_0_EA.PriceMaintenance
+SSCO Config\Merge\06_Test_Data\1.items\Price\10467608.PriceMaintenance
+SSCO Config\Merge\06_Test_Data\1.items\Price\106241751.PriceMaintenance
+SSCO Config\Merge\06_Test_Data\1.items\Price\10624176.PriceMaintenance
+SSCO Config\Merge\06_Test_Data\1.items\Price\10925584.PriceMaintenance
+SSCO Config\Merge\06_Test_Data\1.items\Price\12344580.PriceMaintenance
+SSCO Config\Merge\06_Test_Data\1.items\Price\13004610.PriceMaintenance
+SSCO Config\Merge\06_Test_Data\1.items\Price\210000928003.PriceMaintenance
+SSCO Config\Merge\06_Test_Data\1.items\Price\210000928215.PriceMaintenance
+SSCO Config\Merge\06_Test_Data\1.items\Price\5702.PriceMaintenance
+SSCO Config\Merge\06_Test_Data\1.items\Price\5704.PriceMaintenance
+SSCO Config\Merge\06_Test_Data\1.items\Price\58215.PriceMaintenance
+SSCO Config\Merge\06_Test_Data\1.items\Price\58216.PriceMaintenance
+SSCO Config\Merge\06_Test_Data\1.items\Price\711582.PriceMaintenance
+SSCO Config\Merge\06_Test_Data\1.items\Price\9999990000002_0_EA.PriceMaintenance
+SSCO Config\Merge\06_Test_Data\1.items\Price\DeliQRItems .PriceMaintenance
+SSCO Config\Merge\06_Test_Data\1.items\Price\LabItemsV1.PriceMaintenance
+SSCO Config\Merge\06_Test_Data\1.items\Price\PhQRItems.PriceMaintenance
+SSCO Config\Merge\06_Test_Data\1.items\Price\QRItems.PriceMaintenance
+SSCO Config\Merge\06_Test_Data\1.items\Price\QubstQRItems.PriceMaintenance
+SSCO Config\Merge\06_Test_Data\1.items\Product\001_9999990000001_age18.ProductMaintenance
+SSCO Config\Merge\06_Test_Data\1.items\Product\10467608.ProductMaintenance
+SSCO Config\Merge\06_Test_Data\1.items\Product\10624176.ProductMaintenance
+SSCO Config\Merge\06_Test_Data\1.items\Product\10925584.ProductMaintenance
+SSCO Config\Merge\06_Test_Data\1.items\Product\122490.ProductMaintenance
+SSCO Config\Merge\06_Test_Data\1.items\Product\12344580.ProductMaintenance
+SSCO Config\Merge\06_Test_Data\1.items\Product\13004610.ProductMaintenance
+SSCO Config\Merge\06_Test_Data\1.items\Product\210000928003.ProductMaintenance
+SSCO Config\Merge\06_Test_Data\1.items\Product\210000928215.ProductMaintenance
+SSCO Config\Merge\06_Test_Data\1.items\Product\5702.ProductMaintenance
+SSCO Config\Merge\06_Test_Data\1.items\Product\5704.ProductMaintenance
+SSCO Config\Merge\06_Test_Data\1.items\Product\571.ProductMaintenance
+SSCO Config\Merge\06_Test_Data\1.items\Product\58215.ProductMaintenance
+SSCO Config\Merge\06_Test_Data\1.items\Product\58216.ProductMaintenance
+SSCO Config\Merge\06_Test_Data\1.items\Product\711582.ProductMaintenance
+SSCO Config\Merge\06_Test_Data\1.items\Product\9999990000002_normal item.ProductMaintenance
+SSCO Config\Merge\06_Test_Data\1.items\Product\DeliQRItems.ProductMaintenance
+SSCO Config\Merge\06_Test_Data\1.items\Product\LabItemsV1.ProductMaintenance
+SSCO Config\Merge\06_Test_Data\1.items\Product\PhQRItems.ProductMaintenance
+SSCO Config\Merge\06_Test_Data\1.items\Product\QbustQRItems.ProductMaintenance
+SSCO Config\Merge\06_Test_Data\1.items\Product\QRItems.ProductMaintenance
+SSCO Config\Merge\07_LP\01_NCR\01_QA\001_PES_Promotion_Root.NEPConnectionConfigurationMaintenance
+SSCO Config\Merge\07_LP\01_NCR\01_QA\002_PES_Loyalty_Root.NEPConnectionConfigurationMaintenance
+NtucMultiSimulator\Src\Simulator\Controllers\OneLoyaltyAgent\ResponseObjects\MemberSalesResponse.cs
+SSCO Config\Merge\01.Basic\001.Initial\004.Tax\0_TaxIndicatorGroup\001_IndicatorGroupMaintenance.IndicatorGroupMaintenance
+SSCO Config\Merge\01.Basic\001.Initial\004.Tax\1_TaxAuthority\001_TaxAuthority.TaxAuthorityMaintenance
+SSCO Config\Merge\01.Basic\001.Initial\004.Tax\3_TaxRate\002_KDV.TaxRateMaintenance
+
+
+
+
+Folders that exist in source but not in destination:18
+Installation
+Libs
+Installation\Config
+Installation\Project
+Installation\SupportFiles
+Installation\Project\Dynamic
+Installation\Project\Include
+Installation\Project\Localization
+Installation\Project\UI
+Installation\SupportFiles\Bitmaps
+Src\Ncr.NtucAdapter.BC\DTO
+Src\Ncr.NtucAdapter.BC.Test\Actions
+Src\Ncr.NtucAdapter.Common\Imp
+Src\Ncr.NtucAdapter.Model\Communication
+Src\Ncr.NtucAdapter.Model\Infrastructure
+Src\Ncr.NtucAdapter.VoucherRedemptionGateway\PosMessageBuilders
+Src\Ncr.NtucAdapter.Common\Imp\DataTypes
+Src\Ncr.NtucAdapter.Common\Imp\DataTypes\PromptForData
+
+Files that exist in source but not in destination:22
+Installation\Config\ProductWiX.config
+Installation\Project\NTUCProvidersAdapter.build
+Installation\Project\NTUCProvidersAdapter.sln
+Installation\Project\NTUCProvidersAdapter.wixproj
+Installation\Project\Product.wxs
+Installation\Project\StaticComponents.wxs
+Installation\Project\StaticContent.wxs
+Installation\Project\StaticDirectories.wxs
+Installation\Project\Dynamic\DynamicContent.wxi
+Installation\Project\Dynamic\DynamicFolders.wxi
+Installation\Project\Include\CustomActions.wxi
+Installation\Project\Include\CustomTables.wxi
+Installation\Project\Include\Definitions.wxi
+Installation\Project\Include\InstallSequences.wxi
+Installation\Project\Include\Properties.wxi
+Installation\Project\Localization\WixUI_en-us.wxl
+Installation\Project\UI\GeneralDialogs.wxs
+Installation\Project\UI\UI.wxs
+Installation\Project\UI\UIDefinitions.wxs
+Installation\SupportFiles\Bitmaps\Banner_NCR10.jpg
+Installation\SupportFiles\Bitmaps\Frame_NCR10.jpg
+Installation\SupportFiles\Bitmaps\NCR.ico
+
+C:\Jogu\CSharp\Test\Test\bin\Debug\net5.0\Test.exe (process 24160) exited with code -1.
+To automatically close the console when debugging stops, enable Tools->Options->Debugging->Automatically close the console when debugging stops.
+Press any key to close this window . . .
